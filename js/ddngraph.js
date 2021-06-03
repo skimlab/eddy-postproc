@@ -28,6 +28,10 @@
 
     var cy;
 
+    let hrefString = (name, url) => {
+      return "<a target=\"_blank\" href=\"" + url + "\">" + name + "</a>"
+    }
+
     let $stylesheet = $('#style');
     let getStylesheet = name => {
       let convert = res => name.match(/[.]json$/) ? toJson(res) : toText(res);
@@ -76,39 +80,35 @@
 
       document.getElementById("M1").appendChild($links)
  */
-      sp_mediators = ""
+      let geneCardURL = "http://www.genecards.org/cgi-bin/carddisp.pl?gene="
+
+      var sp_mediators = []
       nodes.forEach(function(n) {
         if (n.data('mediator') == "Specificity mediator" | n.data('mediator') == "Dual mediator") {
-          sp_mediators = sp_mediators.concat(n.data('name')).concat(', ')
+          sp_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
         }
       })
-      sp_mediators = sp_mediators.trim()
-      if (sp_mediators.length == 0) {
-        sp_mediators = "-"
-      } else {
-        sp_mediators = sp_mediators.slice(0, sp_mediators.length-1)
-      }
+      if (sp_mediators.length > 0) {
+        sp_mediators.sort()
+      }      
 
-      ess_mediators = ""
+      var ess_mediators = []
       nodes.forEach(function(n) {
         if (n.data('mediator') == "Essentiality mediator" | n.data('mediator') == "Dual mediator") {
-          ess_mediators = ess_mediators.concat(n.data('name')).concat(', ')
+          ess_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
         }
       })
-      ess_mediators = ess_mediators.trim()
-      if (ess_mediators.length == 0) {
-        ess_mediators = "-"
-      } else {
-        ess_mediators = ess_mediators.slice(0, ess_mediators.length-1)
+      if (ess_mediators.length > 0) {
+        ess_mediators.sort()
       }
 
       // let metadata = cy.metadata();
-      document.getElementById("specificity_mediators").innerText = sp_mediators
-      document.getElementById("essentiality_mediators").innerText = ess_mediators
+      document.getElementById("specificity_mediators").innerHTML = sp_mediators.join(", ")
+      document.getElementById("essentiality_mediators").innerHTML = ess_mediators.join(", ")
 
-      document.getElementById("C1_name").innerText = "C1 (".concat(dataset.metadata[0].data.C1).concat(")")
-      document.getElementById("C2_name").innerText = "C2 (".concat(dataset.metadata[0].data.C2).concat(")")
-
+      document.getElementById("C1_name").innerText = "(".concat(dataset.metadata[0].data.C1).concat(")")
+      document.getElementById("C2_name").innerText = "(".concat(dataset.metadata[0].data.C2).concat(")")
+      
       setTippies();
     }
 

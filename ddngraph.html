@@ -4,12 +4,11 @@
 
 <head>
   <link rel="stylesheet" href="css/normalize.css" />
-  <link rel="stylesheet" href="css/skeleton.css" />
-<!--  <link rel="stylesheet" href="css/font-awesome.css" /> -->
-  <link rel="stylesheet" href="css/open-sans.css" />
+  <link rel="stylesheet" href="css/font-awesome.css" />
   <link rel="stylesheet" href="css/index.css" />
+  <link rel="stylesheet" href="css/open-sans.css" />
+  <link rel="stylesheet" href="css/skeleton.css" />
   <link rel="stylesheet" href="css/tooltipster.bundle.min.css" />
-
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
@@ -51,6 +50,10 @@
         text-align:center; 
         padding:1px;
     } 
+
+    a { text-decoration: none; color: inherit; }
+  </style>
+
   </style> 
 
   <title>EDDY DDN</title>
@@ -95,12 +98,12 @@
         <th><small>Known Interaction</small></th>
       </tr>
       <tr style="color: green">
-        <th><small><div id="C1_name">C1 (GBApPD)</div></small></td>
+        <th><small><div>C1<div id="C1_name">name</div></div></small></td>
         <td>---</td> 
         <td>&mdash;</td>
       </tr>
       <tr style="color: red">
-        <th><small><div id="C2_name">C2 (GBApUnaffected)</div></small></td>
+        <th><small><div>C2<div id="C2_name">C2</div></div></small></td>
         <td>---</td> 
         <td>&mdash;</td>
       </tr>
@@ -126,8 +129,8 @@
         <th style="color: steelblue; width:50%;"><small>Essentiality</small></th>
       </tr>
       <tr>
-        <td style="color: green;"><div id="specificity_mediators">NA</div></td> 
-        <td style="color: steelblue;"><div id="essentiality_mediators">NA</div></td>
+        <td style="color: green;"><small><div id="specificity_mediators">NA</div></small></td> 
+        <td style="color: steelblue;"><small><div id="essentiality_mediators">NA</div></small></td>
       </tr>
     </table>
 
@@ -147,15 +150,14 @@
     <table style="width:100%; border-top: none; border-bottom: none;">
       <tr style='text-align:center; vertical-align:middle; background-color: #eee'>
         <th colspan="2" >
-          DDN
+          <small>DDN</small>
         </th>
       </tr>
       <tr>
-        <th style="text-align: right;">
-          Show Edges
-          <!-- <label for="ddnEdges" class="tooltip u-pull-left" title="Choose edges">Show Edges</label>-->
+        <th style="text-align: right; vertical-align: top;">
+          <small>Show Edges</small>
         </th>
-        <td style="text-align:left; vertical-align:middle; padding-top: 10px; padding-left: 10px; padding-right: 10px;">
+        <td style="text-align:left; vertical-align:middle; font-size:14px; padding-left: 5px; padding-right: 5px;">
           <div class="u-cf"></div>
           <select id="ddnEdges">
             <option value="DDN" selected>Both</option>
@@ -167,50 +169,44 @@
       </tr>
 
       <tr>
-        <th style='text-align:right;vertical-align:middle;'>
-          Hide
+        <th style='text-align:right; vertical-align:top;'>
+          <small>Hide</small>
         </th>
-        <td style="vertical-align:bottom; text-align:left; padding-left: 10px; padding-right: 10px;">
+        <td style="vertical-align:bottom; text-align:left; padding-left: 5px; padding-right: 5x;">
           <label class="hideSharedEdges">
             <input id="hideSharedEdges" type="checkbox">
-            <span class="label-body">shared edges</span>
+            <span class="label-body"><small>shared edges</small></span>
           </label>    
-        </td>
-      </tr>
-
-      <tr>
-        <td>&nbsp;&nbsp;</td>
-        <td style="vertical-align:middle; text-align:left; padding-left: 10px; padding-right: 10px;">
           <label class="hideNodeNames">
             <input id="hideNodeNames" type="checkbox">
-            <span class="label-body">node names</span>
+            <span class="label-body"><small>node names</small></span>
           </label>
-        </td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td style="vertical-align:middle; text-align:left; padding-left: 10px; padding-right: 10px;">
           <label class="hideGroups">
             <input id="hideGroups" type="checkbox">
-            <span class="label-body">group names</span>
+            <span class="label-body"><small>group names</small></span>
           </label>
+         </td>
+      </tr>
+
+      <tr>
+        <th style="text-align: right; vertical-align: top;">
+          <small>Layout</small>
+        </th>
+        <td style="vertical-align:middle; font-size:14px; text-align:left; padding-left: 5px; padding-right: 5px;">
+          <div class="u-cf"></div>
+          <select id="layout">
+            <option value="cola">Force-directed (COLA)</option>
+            <option value="cose" selected>Force-directed (COSE)</option>
+            <option value="concentricCentrality">Concentric by centrality</option>
+            <option value="concentricHierarchyCentrality">Hierarchy by centrality</option>
+          </select>
+          <i id="redo-layout" class="fa fa-refresh action-icon tooltip" title="Redo layout"></i>
         </td>
       </tr>
-    </table>  
 
-    <div>
-      <label for="layout" class="tooltip u-pull-left" title="Change layout">Active layout</label>
-      <div class="u-cf"></div>
-      <select id="layout">
-          <option value="cola">Force-directed (COLA) </option>
-          <option value="cose" selected>Force-directed (COSE) </option>
-          <option value="concentricCentrality">Concentric by centrality</option>
-          <option value="concentricHierarchyCentrality">Hierarchy by centrality</option>
-        </select>
-      <i id="redo-layout" class="fa fa-refresh action-icon tooltip" title="Redo layout"></i>
-    </div>
+    </table> 
 
-    <div>
+    <div style="text-align: center;">
       <button id="png" class="button button-primary">Download PNG</button>
     </div>
 
