@@ -1,0 +1,84 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(eddyR)
+library(jsonlite)
+library(knitr)
+```
+
+```{r}
+input_dir = "~/Dropbox (PVAMU)/Research/Kendall-PPMI/PPMI/analysis/2020-06-18-PPMI/EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected/"
+output_dir = "~/Dropbox (PVAMU)/Research/Kendall-PPMI/PPMI/analysis/2020-06-18-PPMI/EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected_out_dir/"
+ddn_json_dir = "~/Dropbox (PVAMU)/Research/Kendall-PPMI/PPMI/analysis/2020-06-18-PPMI/EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected_ddn_json/"
+```
+
+
+```{r}
+eddy_ppmi <- post_proc_EDDY(eddy_run_dir = input_dir, create_ddn_graph = TRUE)
+```
+
+
+```{r}
+pathway_list <- unique(eddy_ppmi$DDNs$pathway)
+
+for (a_pathway in pathway_list) {
+  eddy_ppmi$DDNs %>% 
+    filter(pathway == a_pathway) %>% 
+    ddn_to_json(filepath = ddn_json_dir)
+}
+```
+
+```{r}
+eddy_ppmi$DDNs %>%
+  ddn_to_json(filepath = file.path(ddn_json_dir, "aggregated.json"))
+```
+
+
+```{r}
+write_eddy_post_processed(eddy_ppmi, out_dir = output_dir)
+```
+
+
+```{r}
+DDN_link <- function(pathway, style = c("markdown", "html")) {
+  style <- style[1]
+  
+  if (style == "markdown") {
+    sprintf('[DDN](ddngraph.html?DDN=%s)', pathway)
+  } else {
+    sprintf('<a href="ddngraph.html?DDN=%s" target="_blank">DDN</a>', pathway)
+  }
+}
+```
+
+```{r}
+MSigDB_link <- function(pathway, style = c("markdown", "html")) {
+  style <- style[1]
+  
+  if (style == "markdown") {
+    sprintf('[%s](https://www.gsea-msigdb.org/gsea/msigdb/cards/%s.html)', reactome_cleanup(pathway), pathway)
+  } else {
+    sprintf('<a href="https://www.gsea-msigdb.org/gsea/msigdb/cards/%s.html" target="_blank">%s</a>', pathway, reactome_cleanup(pathway))
+  }
+}
+```
+
+
+```{r}
+eddy_ppmi$summary %>%
+  select(pathway, n_actual, known_dependency, rewiring, JS, P, essentiality.mediators.l, specificity.mediators.l) %>%
+  rename(n = n_actual, 
+         'known dependency (%)' = known_dependency,
+         'rewiring (%)' = rewiring,
+         'essentiality mediators' = essentiality.mediators.l, 
+         'specificity mediators' = specificity.mediators.l) %>%
+  mutate(DDN = DDN_link(pathway, style = "html")) %>%
+  mutate(pathway = MSigDB_link(pathway, style = "html")) %>%
+  arrange(P) %>%
+  kable(format = "markdown") %>%
+  write(file = file.path(output_dir, "summary_table.md"))
+```
+

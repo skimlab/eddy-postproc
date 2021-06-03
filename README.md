@@ -1,6 +1,7 @@
 # Workflow
 
-1. Run R *-postproc.Rmd to generate *datasets* folder
+1. Run R **-postproc.Rmd* to generate *datasets* folder
+   **-postproc.Rmd* is included in *R-postproc* folder.
    
 2. Convert *summary_table.md* to *summary_table.html*
 
