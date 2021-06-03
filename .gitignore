@@ -4,3 +4,7 @@ datasets/.Rhistory
 js/.DS_Store
 stylesheets/.DS_Store
 .DS_Store
+summary_table.html
+summary.md
+.gitignore
+summary.html
