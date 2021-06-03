@@ -1,0 +1,393 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "id": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "ALB",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ALB",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO4A1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "SLCO4A1",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO3A1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "SLCO3A1",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO1B3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "SLCO1B3",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO4C1",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "SLCO4C1",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO1C1",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "SLCO1C1",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "AVP",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "AVP",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        },
+        {
+            "data": {
+                "name": "SLCO1B1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "SLCO1B1",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "n": 8,
+                "parent": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "ALB",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "ALB",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4A1",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO4A1",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4A1",
+                "node_dst": "ALB",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "GBApPD",
+                "source": "SLCO4A1",
+                "target": "ALB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO3A1",
+                "node_dst": "SLCO1B1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "GBApPD",
+                "source": "SLCO3A1",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO3A1",
+                "node_dst": "ALB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO3A1",
+                "target": "ALB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO3A1",
+                "node_dst": "SLCO4A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO3A1",
+                "target": "SLCO4A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1B3",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1B3",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1B3",
+                "node_dst": "ALB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1B3",
+                "target": "ALB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1B3",
+                "node_dst": "SLCO4A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1B3",
+                "target": "SLCO4A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4C1",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO4C1",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4C1",
+                "node_dst": "ALB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO4C1",
+                "target": "ALB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4C1",
+                "node_dst": "SLCO4A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO4C1",
+                "target": "SLCO4A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO4C1",
+                "node_dst": "SLCO3A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO4C1",
+                "target": "SLCO3A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1C1",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1C1",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1C1",
+                "node_dst": "SLCO4A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1C1",
+                "target": "SLCO4A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1C1",
+                "node_dst": "SLCO3A1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "GBApPD",
+                "source": "SLCO1C1",
+                "target": "SLCO3A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1C1",
+                "node_dst": "SLCO1B3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1C1",
+                "target": "SLCO1B3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SLCO1C1",
+                "node_dst": "SLCO4C1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "SLCO1C1",
+                "target": "SLCO4C1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "AVP",
+                "node_dst": "SLCO1B1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "AVP",
+                "target": "SLCO1B1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "AVP",
+                "node_dst": "SLCO4A1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "GBApPD",
+                "source": "AVP",
+                "target": "SLCO4A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "AVP",
+                "node_dst": "SLCO3A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "AVP",
+                "target": "SLCO3A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "AVP",
+                "node_dst": "SLCO1B3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "AVP",
+                "target": "SLCO1B3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "AVP",
+                "node_dst": "SLCO4C1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_TRANSPORT_OF_ORGANIC_ANIONS",
+                "condition.1": "Both",
+                "source": "AVP",
+                "target": "SLCO4C1"
+            }
+        }
+    ]
+}
+

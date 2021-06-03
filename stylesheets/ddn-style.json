@@ -1,0 +1,171 @@
+[
+  { 
+    "selector": "core", 
+    "style": { 
+        "selection-box-color": "#AAD8FF", 
+        "selection-box-border-color": "#8BB0D0", 
+        "selection-box-opacity": "0.5" 
+    } 
+  }, 
+  { 
+    "selector": "node", 
+    "style": { 
+        "width": "5", 
+        "height": "5", 
+        "shape": "ellipse", 
+        "content": "data(name)", 
+        "font-size": "8", 
+        "text-valign": "center", 
+        "text-halign": "center", 
+        "background-color": "lightgrey", 
+        "border-color": "black", 
+        "border-width": 0, 
+        "border-opacity": "data(ratio)", 
+        "color": "#444", 
+        "overlay-padding": "6px", 
+        "z-index": "10" 
+    } 
+  }, 
+  {
+    "selector": "node[mediator = 'Specificity mediator']",
+    "style": {
+      "shape": "diamond",
+      "width": "15",
+      "height": "15",
+      "color": "lightgrey",
+      "background-color": "yellowgreen",
+      "text-outline-color": "green", 
+      "text-outline-width": "0.5px", 
+      "font-size": "12"
+    }
+  },
+  {
+    "selector": "node[mediator = 'Essentiality mediator']",
+    "style": {
+      "shape": "diamond",
+      "width": "15",
+      "height": "15",
+      "color": "lightgrey",
+      "background-color": "steelblue",
+      "text-outline-color": "blue", 
+      "text-outline-width": "0.5px", 
+      "font-size": "12"
+    }
+  },
+  {
+    "selector": "node[mediator = 'Dual mediator']",
+    "style": {
+      "shape": "diamond",
+      "width": "15",
+      "height": "15",
+      "color": "lightgrey",
+      "background-color": "red",
+      "text-outline-color": "red", 
+      "text-outline-width": "0.5px", 
+      "font-size": "12"
+    }
+  },
+
+  { 
+    "selector": "node[?query]", 
+    "style": { 
+        "background-clip": "none", 
+        "background-fit": "contain" 
+    } 
+  }, 
+  { 
+    "selector": "node:selected", 
+    "style": { 
+        "border-width": "6px", 
+        "border-color": "#AAD8FF", 
+        "border-opacity": "0.5", 
+        "background-color": "#77828C", 
+        "text-outline-color": "#77828C" 
+    } 
+  }, 
+
+
+  { 
+    "selector": "edge", 
+    "style": { 
+        "curve-style": "haystack", 
+        "haystack-radius": "0", 
+        "opacity": "0.5", 
+        "mid-source-arrow-shape": "none", 
+        "mid-target-arrow-shape": "none", 
+        "line-style": "solid", 
+        "width": "1.5", 
+        "overlay-padding": "3px" 
+    } 
+  },
+
+  {
+    "selector": "edge[condition = 'C1']",
+    "style": {
+      "line-color": "green",
+      "mid-source-arrow-color": "green", 
+      "mid-target-arrow-color": "green"
+    }
+  },
+  {
+    "selector": "edge[condition = 'C2']",
+    "style": {
+      "line-color": "red",
+      "mid-source-arrow-color": "red", 
+      "mid-target-arrow-color": "red" 
+    }
+  },
+  {
+    "selector": "edge[condition = 'Both']",
+    "style": {
+      "line-color": "grey",
+      "width": "0.5",
+      "mid-source-arrow-color": "grey", 
+      "mid-target-arrow-color": "green"
+    }
+  },
+
+  {
+    "selector": "edge[priordir = 'target']",
+    "style": {
+      "mid-target-arrow-shape": "triangle"
+    }
+  },
+
+  {
+    "selector": "edge[priordir = 'source']",
+    "style": {
+      "mid-source-arrow-shape": "triangle"
+    }
+  },
+
+  {
+    "selector": "edge[priorinfo = 'Statistical dependency']",
+    "style": {
+    "line-style": "dotted"
+    }
+  },
+
+  {
+    "selector": "edge[prior = 'NONE']",
+    "style": {
+    "line-style": "dotted"
+    }
+  },
+
+  { 
+    "selector": ":parent", 
+    "style": { 
+        "label": "data(id)",
+        "font-size": 8,
+        "color": "tomato",
+        "text-valign": "bottom", 
+        "text-halign": "center", 
+        "border-width": 0, 
+        "background-color": "white", 
+        "text-outline-color": "#555", 
+        "text-outline-width": "0.5px", 
+        "z-index": "100" 
+    } 
+  }
+]

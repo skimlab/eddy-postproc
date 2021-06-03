@@ -1,0 +1,1090 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "id": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "PCNA",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PCNA",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLD1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "POLD1",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLD2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "POLD2",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLE",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "POLE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLE2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "POLE2",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLD4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "POLD4",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RFC2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RFC2",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RFC3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RFC3",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RFC4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RFC4",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RFC5",
+                "mediator.essentiality": false,
+                "mediator.specificity": true,
+                "mediator": "Specificity mediator",
+                "id": "RFC5",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RPA1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPA1",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RPA2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPA2",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "RPA3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPA3",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        },
+        {
+            "data": {
+                "name": "POLD3",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "POLD3",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "n": 14,
+                "parent": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "PCNA",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "PCNA",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD1",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD1",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD1",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD1",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD2",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD2",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD2",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD2",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD2",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD2",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE2",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE2",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE2",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE2",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE2",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE2",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE2",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE2",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLE2",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLE2",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "POLD4",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "POLD4",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC2",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC2",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC2",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC2",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "POLD4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC3",
+                "node_dst": "RFC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC3",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "POLD4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC4",
+                "node_dst": "RFC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC4",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "POLD3",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApPD",
+                "source": "RFC5",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC5",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC5",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RFC5",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "PCNA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "PCNA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "POLD4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "RFC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "RFC3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "RFC3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "RFC4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "RFC4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA1",
+                "node_dst": "RFC5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA1",
+                "target": "RFC5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "POLD4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "RFC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA2",
+                "node_dst": "RPA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA2",
+                "target": "RPA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLD3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLD1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLD1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLD2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLD2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLE2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLE2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "POLD4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "RFC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "RFC5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "RFC5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPA3",
+                "node_dst": "RPA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "Both",
+                "source": "RPA3",
+                "target": "RPA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "POLD3",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApUnaffected",
+                "source": "RFC2",
+                "target": "POLD3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC2",
+                "node_dst": "POLD4",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApUnaffected",
+                "source": "RFC2",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "POLD4",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApUnaffected",
+                "source": "RFC5",
+                "target": "POLD4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "RFC2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApUnaffected",
+                "source": "RFC5",
+                "target": "RFC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RFC5",
+                "node_dst": "RFC3",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_REPAIR_SYNTHESIS_FOR_GAP_FILLING_BY_DNA_POL_IN_TC_NER",
+                "condition.1": "GBApUnaffected",
+                "source": "RFC5",
+                "target": "RFC3"
+            }
+        }
+    ]
+}
+

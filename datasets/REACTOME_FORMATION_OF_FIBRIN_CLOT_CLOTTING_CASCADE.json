@@ -1,0 +1,4534 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "id": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F3",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F5",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F5",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F7",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F7",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F8",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F8",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F9",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F9",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F10",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F10",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F11",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F11",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F12",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F12",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F13A1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F13A1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F13B",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F13B",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "FGA",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "FGA",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "FGB",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "FGB",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "FGG",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "FGG",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "GP1BA",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GP1BA",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "GP1BB",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GP1BB",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "GP5",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GP5",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "KLKB1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "KLKB1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "KNG1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "KNG1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "SERPINC1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "SERPINC1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "PF4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PF4",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "PF4V1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PF4V1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "PRCP",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PRCP",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "PROC",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "PROC",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "PROS1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PROS1",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "TFPI",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "TFPI",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "THBD",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "THBD",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "C1QBP",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "C1QBP",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "VWF",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "VWF",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        },
+        {
+            "data": {
+                "name": "F2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "F2",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "n": 29,
+                "parent": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "F3",
+                "node_dst": "F2",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F3",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F5",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F5",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F5",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F5",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F7",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F7",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F7",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F7",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F8",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F8",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F8",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F8",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F8",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F8",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F9",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F9",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F9",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F9",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F9",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F9",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F9",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F9",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F9",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F9",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F10",
+                "node_dst": "F3",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F10",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F10",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F10",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F10",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F10",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F10",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F10",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F11",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F11",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F11",
+                "node_dst": "F7",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F11",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F11",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F11",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F12",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F12",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13A1",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F3",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F13A1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13A1",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13A1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "F13B",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "F13B",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "FGA",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F11",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "FGA",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGA",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGB",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "FGG",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BA",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F13A1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "GP1BB",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP1BB",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F13B",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "GP5",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "GP5",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KLKB1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KLKB1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KLKB1",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "GP1BA",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "KLKB1",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "GP5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "KLKB1",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "KNG1",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "FGG",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "KLKB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "KNG1",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "FGG",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "KLKB1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "SERPINC1",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "SERPINC1",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "SERPINC1",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F8",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F13A1",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "FGA",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "FGB",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "FGG",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "KNG1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "SERPINC1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F3",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4V1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F10",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4V1",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F11",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4V1",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "KNG1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PF4V1",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PF4V1",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F7",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F10",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "F13B",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "FGA",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "FGB",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "FGG",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "PRCP",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "KLKB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "SERPINC1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRCP",
+                "node_dst": "PF4V1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PRCP",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "FGG",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "SERPINC1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "PF4V1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROC",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROC",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "FGG",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "KLKB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "PF4V1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PROS1",
+                "node_dst": "PROC",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "PROS1",
+                "target": "PROC"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "KLKB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "SERPINC1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "PROC",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "PROC"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "PROS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "TFPI",
+                "target": "PROS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F3",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F7",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F10",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F11",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "FGA",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "GP5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "KNG1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "SERPINC1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "PF4V1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "PROC",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "THBD",
+                "target": "PROC"
+            }
+        },
+        {
+            "data": {
+                "node_src": "THBD",
+                "node_dst": "TFPI",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "THBD",
+                "target": "TFPI"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "C1QBP",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "GP5",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "C1QBP",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "KLKB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "KLKB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "SERPINC1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "PF4V1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApPD",
+                "source": "C1QBP",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "PROC",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "PROC"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "PROS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "PROS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "TFPI",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "TFPI"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "THBD",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "C1QBP",
+                "target": "THBD"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F5",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F7",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F10",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F11",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F12",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F13A1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F13A1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "F13B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "FGA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "FGB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "FGG",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "GP1BA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "GP1BA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "GP1BB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "GP5",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "KNG1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "KNG1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "SERPINC1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "SERPINC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "PF4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "PF4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "PF4V1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "PF4V1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "PRCP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "PRCP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "PROC",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "PROC"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "PROS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "PROS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "TFPI",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "TFPI"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VWF",
+                "node_dst": "C1QBP",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "Both",
+                "source": "VWF",
+                "target": "C1QBP"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F8",
+                "node_dst": "F7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F8",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F11",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F11",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13A1",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F9",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13A1",
+                "target": "F9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F10",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13A1",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F11",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13A1",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13A1",
+                "node_dst": "F12",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13A1",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "F13B",
+                "node_dst": "F12",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "F13B",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGA",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "FGA",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "FGB",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGB",
+                "node_dst": "F12",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "FGB",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "FGG",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FGG",
+                "node_dst": "F12",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "FGG",
+                "target": "F12"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BA",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "F10",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BA",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "FGA",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BA",
+                "target": "FGA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BA",
+                "node_dst": "FGG",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BA",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BB",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP1BB",
+                "node_dst": "F10",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP1BB",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "F5",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP5",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "FGB",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP5",
+                "target": "FGB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GP5",
+                "node_dst": "FGG",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "GP5",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KLKB1",
+                "node_dst": "F11",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "KLKB1",
+                "target": "F11"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "KNG1",
+                "target": "F2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "KNG1",
+                "target": "F7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "KNG1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "KNG1",
+                "node_dst": "F10",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "KNG1",
+                "target": "F10"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "F13B",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "PF4",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4",
+                "node_dst": "GP5",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "PF4",
+                "target": "GP5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F5",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "PF4V1",
+                "target": "F5"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PF4V1",
+                "node_dst": "F8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "PF4V1",
+                "target": "F8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "F13B",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "TFPI",
+                "target": "F13B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "FGG",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "TFPI",
+                "target": "FGG"
+            }
+        },
+        {
+            "data": {
+                "node_src": "TFPI",
+                "node_dst": "GP1BB",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "TFPI",
+                "target": "GP1BB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "C1QBP",
+                "node_dst": "FGG",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE",
+                "condition.1": "GBApUnaffected",
+                "source": "C1QBP",
+                "target": "FGG"
+            }
+        }
+    ]
+}
+

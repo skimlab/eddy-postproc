@@ -1,0 +1,586 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "id": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC6",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "EXOSC6",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "DIS3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "DIS3",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "DCPS",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "DCPS",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC3",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC1",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC9",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC9",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC4",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC5",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC5",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC8",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC8",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "EXOSC2",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        },
+        {
+            "data": {
+                "name": "EXOSC7",
+                "mediator.essentiality": false,
+                "mediator.specificity": true,
+                "mediator": "Specificity mediator",
+                "id": "EXOSC7",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "n": 11,
+                "parent": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "EXOSC6",
+                "node_dst": "EXOSC8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC6",
+                "target": "EXOSC8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "DIS3",
+                "node_dst": "EXOSC6",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "DIS3",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC2",
+                "node_dst": "DIS3",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApPD",
+                "source": "EXOSC2",
+                "target": "DIS3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "DCPS",
+                "node_dst": "EXOSC8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "DCPS",
+                "target": "EXOSC8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "DCPS",
+                "node_dst": "DIS3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "DCPS",
+                "target": "DIS3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "DCPS",
+                "node_dst": "EXOSC2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "DCPS",
+                "target": "EXOSC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC3",
+                "node_dst": "EXOSC6",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC3",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC3",
+                "node_dst": "DCPS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC3",
+                "target": "DCPS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC1",
+                "node_dst": "EXOSC6",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApPD",
+                "source": "EXOSC1",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC1",
+                "node_dst": "DCPS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC1",
+                "target": "DCPS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC9",
+                "node_dst": "EXOSC6",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC9",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC9",
+                "node_dst": "DCPS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC9",
+                "target": "DCPS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC6",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC4",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC4",
+                "target": "EXOSC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "DCPS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC4",
+                "target": "DCPS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC4",
+                "target": "EXOSC3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "EXOSC8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC6",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "DIS3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "DIS3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "EXOSC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "DCPS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "DCPS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "EXOSC3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "Both",
+                "source": "EXOSC5",
+                "target": "EXOSC9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC7",
+                "node_dst": "EXOSC8",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC7",
+                "target": "EXOSC8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC7",
+                "node_dst": "EXOSC6",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC7",
+                "target": "EXOSC6"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC7",
+                "node_dst": "DIS3",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC7",
+                "target": "DIS3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "DCPS",
+                "node_dst": "EXOSC7",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "DCPS",
+                "target": "EXOSC7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC9",
+                "node_dst": "EXOSC7",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC9",
+                "target": "EXOSC7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC9",
+                "node_dst": "EXOSC2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC9",
+                "target": "EXOSC2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC8",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC4",
+                "target": "EXOSC8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "DIS3",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC4",
+                "target": "DIS3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC7",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC4",
+                "target": "EXOSC7"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC4",
+                "target": "EXOSC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC4",
+                "node_dst": "EXOSC9",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC4",
+                "target": "EXOSC9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC5",
+                "target": "EXOSC1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "EXOSC5",
+                "node_dst": "EXOSC4",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE",
+                "condition.1": "GBApUnaffected",
+                "source": "EXOSC5",
+                "target": "EXOSC4"
+            }
+        }
+    ]
+}
+

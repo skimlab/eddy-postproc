@@ -1,0 +1,4258 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "id": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "ADCY1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ADCY1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "ADCY3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ADCY3",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "ADCY8",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ADCY8",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CREB1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CREB1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "GRIA2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GRIA2",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "GRIA4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GRIA4",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "GRIN2A",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GRIN2A",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "GRIN2B",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GRIN2B",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "GRIN2D",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "GRIN2D",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "HRAS",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "HRAS",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "NEFL",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "NEFL",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "PDPK1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PDPK1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "PRKACB",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PRKACB",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "MAPK1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "MAPK1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "RAF1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RAF1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "RASGRF2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RASGRF2",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "RPS6KA1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPS6KA1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "RPS6KA2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPS6KA2",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "RPS6KA3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "RPS6KA3",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "BRAF",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "BRAF",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CALM1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CALM1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CALM2",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CALM2",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CALM3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CALM3",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CAMK4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CAMK4",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CAMK2A",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CAMK2A",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CAMK2D",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "CAMK2D",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "CAMKK1",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "CAMKK1",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        },
+        {
+            "data": {
+                "name": "AKAP9",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "AKAP9",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "n": 28,
+                "parent": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "ADCY1",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "ADCY1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ADCY3",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "ADCY3",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ADCY8",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "ADCY8",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CREB1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CREB1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CREB1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CREB1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA2",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA2",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA2",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA2",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA4",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIA4",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2A",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2A",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2A",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2A",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2A",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2A",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2A",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2A",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2B",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2B",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2B",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2B",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2B",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2B",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2B",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2B",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2B",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2B",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2D",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "ADCY1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "GRIN2D",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "ADCY8",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "GRIN2D",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2D",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "GRIN2D",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "GRIN2A",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "GRIN2D",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "GRIN2B",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "GRIN2D",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "HRAS",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "ADCY1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "NEFL",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "NEFL",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PDPK1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "PRKACB",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "HRAS",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "PRKACB",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "PDPK1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "PRKACB",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "NEFL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "MAPK1",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RAF1",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "NEFL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RASGRF2",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RASGRF2",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA1",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA1",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "ADCY8",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "RPS6KA2",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA2",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "RPS6KA3",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "RPS6KA3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "BRAF",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "NEFL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM1",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "PDPK1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CALM2",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "CALM1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM2",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "RPS6KA3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "CALM1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "CALM2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CALM3",
+                "target": "CALM2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "HRAS",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMK4",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "RPS6KA3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "CALM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "CALM2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "CALM2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "CALM3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK4",
+                "target": "CALM3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "AKAP9",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "CREB1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "GRIN2B",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMK2A",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "GRIN2D",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMK2A",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "NEFL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "PRKACB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "RPS6KA3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "CALM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "CALM2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "CALM2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "CALM3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "CALM3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2A",
+                "node_dst": "CAMK4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2A",
+                "target": "CAMK4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "ADCY8",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "GRIA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "GRIN2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "GRIN2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "GRIN2D",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "NEFL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "PDPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "RPS6KA3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CALM2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "CALM2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CALM3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "CALM3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CAMK2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMK2D",
+                "target": "CAMK2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "AKAP9",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMKK1",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "ADCY1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "ADCY3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CREB1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMKK1",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "GRIA4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "GRIA4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "GRIN2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "GRIN2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "HRAS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "HRAS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "MAPK1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "MAPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "RAF1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "RASGRF2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "RASGRF2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "RPS6KA1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "RPS6KA2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "RPS6KA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "RPS6KA3",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMKK1",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "BRAF",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "BRAF"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CALM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CALM3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "CALM3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CAMK4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "Both",
+                "source": "CAMKK1",
+                "target": "CAMK4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CAMK2A",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMKK1",
+                "target": "CAMK2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "CAMK2D",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApPD",
+                "source": "CAMKK1",
+                "target": "CAMK2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ADCY3",
+                "node_dst": "AKAP9",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "ADCY3",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CREB1",
+                "node_dst": "ADCY3",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CREB1",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA2",
+                "node_dst": "ADCY1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "GRIA2",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIA2",
+                "node_dst": "ADCY8",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "GRIA2",
+                "target": "ADCY8"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2A",
+                "node_dst": "GRIA2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "GRIN2A",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "ADCY3",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "GRIN2D",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "GRIN2D",
+                "node_dst": "GRIA2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "GRIN2D",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HRAS",
+                "node_dst": "ADCY1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "HRAS",
+                "target": "ADCY1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "NEFL",
+                "node_dst": "CREB1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "NEFL",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "GRIA2",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "PDPK1",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PDPK1",
+                "node_dst": "GRIN2D",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "PDPK1",
+                "target": "GRIN2D"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PRKACB",
+                "node_dst": "NEFL",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "PRKACB",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MAPK1",
+                "node_dst": "CREB1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "MAPK1",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RAF1",
+                "node_dst": "PDPK1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "RAF1",
+                "target": "PDPK1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "GRIA2",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "RPS6KA2",
+                "target": "GRIA2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA2",
+                "node_dst": "PRKACB",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "RPS6KA2",
+                "target": "PRKACB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "AKAP9",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "RPS6KA3",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "RPS6KA3",
+                "node_dst": "ADCY3",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "RPS6KA3",
+                "target": "ADCY3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "AKAP9",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "BRAF",
+                "target": "AKAP9"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "RAF1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "BRAF",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "BRAF",
+                "node_dst": "RPS6KA1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "BRAF",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "RAF1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CALM1",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM1",
+                "node_dst": "RPS6KA1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CALM1",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM2",
+                "node_dst": "RPS6KA3",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CALM2",
+                "target": "RPS6KA3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "RAF1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CALM3",
+                "target": "RAF1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CALM3",
+                "node_dst": "RPS6KA1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CALM3",
+                "target": "RPS6KA1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK4",
+                "node_dst": "NEFL",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CAMK4",
+                "target": "NEFL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CREB1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CAMK2D",
+                "target": "CREB1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CALM1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CAMK2D",
+                "target": "CALM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMK2D",
+                "node_dst": "CAMK4",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CAMK2D",
+                "target": "CAMK4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "CAMKK1",
+                "node_dst": "PDPK1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS",
+                "condition.1": "GBApUnaffected",
+                "source": "CAMKK1",
+                "target": "PDPK1"
+            }
+        }
+    ]
+}
+

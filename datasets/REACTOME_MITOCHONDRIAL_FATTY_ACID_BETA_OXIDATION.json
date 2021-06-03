@@ -1,0 +1,1114 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "id": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "DECR1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "DECR1",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ECHS1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ECHS1",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "HADHB",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "HADHB",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "HADH",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "HADH",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ACADL",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "ACADL",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ACADM",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ACADM",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ACADS",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ACADS",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ACADVL",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ACADVL",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "MUT",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "MUT",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "PCCA",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PCCA",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "PCCB",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "PCCB",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "MCEE",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "MCEE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "ECI1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "ECI1",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        },
+        {
+            "data": {
+                "name": "HADHA",
+                "mediator.essentiality": false,
+                "mediator.specificity": true,
+                "mediator": "Specificity mediator",
+                "id": "HADHA",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "n": 14,
+                "parent": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "DECR1",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "DECR1",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ECHS1",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ECHS1",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADHA",
+                "node_dst": "ECI1",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApPD",
+                "source": "HADHA",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADHB",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADHB",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADH",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADH",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADH",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADH",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADH",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADH",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADH",
+                "node_dst": "HADHA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADH",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "HADH",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "HADH",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "HADHA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADL",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADL",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADM",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADM",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADM",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADM",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADM",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADS",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "HADHA",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApPD",
+                "source": "ACADS",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADS",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADS",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADS",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "ACADM",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADS",
+                "target": "ACADM"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADVL",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADVL",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADVL",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADVL",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "ACADM",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "ACADVL",
+                "target": "ACADM"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "ACADS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "ACADS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "ACADVL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MUT",
+                "target": "ACADVL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "HADHA",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ACADM",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ACADM"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ACADS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ACADS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "ACADVL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "ACADVL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "MUT",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCA",
+                "target": "MUT"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ECI1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "DECR1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "DECR1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ECHS1",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApPD",
+                "source": "PCCB",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "HADHA",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApPD",
+                "source": "PCCB",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ACADM",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "ACADM"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ACADS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "ACADS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "ACADVL",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "ACADVL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "MUT",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "PCCB",
+                "target": "MUT"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "ECHS1",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "HADHA",
+                "condition": "C1",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApPD",
+                "source": "MCEE",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "HADHB",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "HADH",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "ACADL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "ACADL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "ACADS",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "ACADS"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "ACADVL",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "ACADVL"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "PCCA",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "PCCA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "PCCB",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "Both",
+                "source": "MCEE",
+                "target": "PCCB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ECHS1",
+                "node_dst": "ECI1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ECHS1",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "ECI1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ACADM",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADM",
+                "node_dst": "HADHA",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ACADM",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "ECI1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ACADS",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADS",
+                "node_dst": "ECHS1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ACADS",
+                "target": "ECHS1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "ACADVL",
+                "node_dst": "ECI1",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "ACADVL",
+                "target": "ECI1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MUT",
+                "node_dst": "HADHA",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "MUT",
+                "target": "HADHA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCA",
+                "node_dst": "HADHB",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "PCCA",
+                "target": "HADHB"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "HADH",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "PCCB",
+                "target": "HADH"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PCCB",
+                "node_dst": "PCCA",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "PCCB",
+                "target": "PCCA"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MCEE",
+                "node_dst": "ECI1",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION",
+                "condition.1": "GBApUnaffected",
+                "source": "MCEE",
+                "target": "ECI1"
+            }
+        }
+    ]
+}
+

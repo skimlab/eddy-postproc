@@ -1,0 +1,634 @@
+{
+    "metadata": [
+        {
+            "data": {
+                "Both": "Both",
+                "C1": "GBApPD",
+                "C2": "GBApUnaffected"
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "id": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PI4K2B",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PI4K2B",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PI4K2A",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PI4K2A",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "VAC14",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "VAC14",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "INPP4B",
+                "mediator.essentiality": true,
+                "mediator.specificity": false,
+                "mediator": "Essentiality mediator",
+                "id": "INPP4B",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "MTMR2",
+                "mediator.essentiality": false,
+                "mediator.specificity": true,
+                "mediator": "Specificity mediator",
+                "id": "MTMR2",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "MTMR4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "MTMR4",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "FIG4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "FIG4",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PIKFYVE",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PIKFYVE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PIK3R4",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PIK3R4",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "MTM1",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "MTM1",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PIK3C2A",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PIK3C2A",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        },
+        {
+            "data": {
+                "name": "PIK3C3",
+                "mediator.essentiality": false,
+                "mediator.specificity": false,
+                "mediator": "",
+                "id": "PIK3C3",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "n": 12,
+                "parent": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "node_src": "PI4K2B",
+                "node_dst": "PIKFYVE",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2B",
+                "target": "PIKFYVE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2B",
+                "node_dst": "PIK3R4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2B",
+                "target": "PIK3R4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2B",
+                "node_dst": "MTM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2B",
+                "target": "MTM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "PIKFYVE",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "PIKFYVE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "PIK3R4",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "PIK3R4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "MTM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "MTM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "PIK3C2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "PIK3C2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "PIK3C3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "PIK3C3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2A",
+                "node_dst": "PI4K2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "PI4K2A",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PIKFYVE",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PIKFYVE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PIK3R4",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PIK3R4"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "MTM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "MTM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PIK3C2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PIK3C2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PIK3C3",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PIK3C3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PI4K2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "VAC14",
+                "node_dst": "PI4K2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "VAC14",
+                "target": "PI4K2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "INPP4B",
+                "node_dst": "MTM1",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "INPP4B",
+                "target": "MTM1"
+            }
+        },
+        {
+            "data": {
+                "node_src": "INPP4B",
+                "node_dst": "PI4K2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "INPP4B",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "INPP4B",
+                "node_dst": "PI4K2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "INPP4B",
+                "target": "PI4K2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "INPP4B",
+                "node_dst": "VAC14",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "INPP4B",
+                "target": "VAC14"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR2",
+                "node_dst": "PI4K2A",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR2",
+                "target": "PI4K2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR2",
+                "node_dst": "VAC14",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR2",
+                "target": "VAC14"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR2",
+                "node_dst": "INPP4B",
+                "condition": "C1",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApPD",
+                "source": "MTMR2",
+                "target": "INPP4B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "PIK3C2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "PIK3C2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "PIK3C3",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "PIK3C3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "PI4K2B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "VAC14",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "VAC14"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "INPP4B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "INPP4B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "MTMR2",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "MTMR4",
+                "target": "MTMR2"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FIG4",
+                "node_dst": "PI4K2B",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "FIG4",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FIG4",
+                "node_dst": "PI4K2A",
+                "condition": "Both",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "FIG4",
+                "target": "PI4K2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FIG4",
+                "node_dst": "VAC14",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "FIG4",
+                "target": "VAC14"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FIG4",
+                "node_dst": "INPP4B",
+                "condition": "Both",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "Both",
+                "source": "FIG4",
+                "target": "INPP4B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "PI4K2B",
+                "node_dst": "PIK3C3",
+                "condition": "C2",
+                "prior": "NONE",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "PI4K2B",
+                "target": "PIK3C3"
+            }
+        },
+        {
+            "data": {
+                "node_src": "INPP4B",
+                "node_dst": "PIKFYVE",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "INPP4B",
+                "target": "PIKFYVE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR2",
+                "node_dst": "PIKFYVE",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "MTMR2",
+                "target": "PIKFYVE"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR2",
+                "node_dst": "PI4K2B",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "MTMR2",
+                "target": "PI4K2B"
+            }
+        },
+        {
+            "data": {
+                "node_src": "MTMR4",
+                "node_dst": "PI4K2A",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "MTMR4",
+                "target": "PI4K2A"
+            }
+        },
+        {
+            "data": {
+                "node_src": "FIG4",
+                "node_dst": "MTMR2",
+                "condition": "C2",
+                "prior": "PRIOR",
+                "pathway": "REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE",
+                "condition.1": "GBApUnaffected",
+                "source": "FIG4",
+                "target": "MTMR2"
+            }
+        }
+    ]
+}
+

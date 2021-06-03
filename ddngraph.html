@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="css/normalize.css" />
+  <link rel="stylesheet" href="css/skeleton.css" />
+<!--  <link rel="stylesheet" href="css/font-awesome.css" /> -->
+  <link rel="stylesheet" href="css/open-sans.css" />
+  <link rel="stylesheet" href="css/index.css" />
+  <link rel="stylesheet" href="css/tooltipster.bundle.min.css" />
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <script src="https://unpkg.com/bluebird@3.5.2/js/browser/bluebird.js"></script>
+  <script src="https://unpkg.com/whatwg-fetch@3.0.0/dist/fetch.umd.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.0/lodash.min.js"></script>
+  <script src="https://unpkg.com/webcola@3.3.8/WebCola/cola.min.js"></script>
+  <script src="https://unpkg.com/popper.js@1.14.4/dist/umd/popper.js"></script>
+  <script src="https://unpkg.com/tippy.js@2.6.0/dist/tippy.all.js"></script>
+
+  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+
+  <script src="https://unpkg.com/cytoscape-cola@2.2.3/cytoscape-cola.js"></script>
+  <script src="https://unpkg.com/cytoscape-popper@1.0.2/cytoscape-popper.js"></script>
+
+  <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+  <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/cytoscape-cose-bilkent@4.1.0/cytoscape-cose-bilkent.min.js"></script>
+
+  <script src="https://unpkg.com/cytoscape-layout-utilities/cytoscape-layout-utilities.js"></script>
+  <script scr="https://unpkg.com/cytoscape-fcose@1.2.3/cytoscape-fcose.js"></script>
+
+  <script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+  <script src="https://unpkg.com/tooltipster@4.2.8/dist/js/tooltipster.bundle.min.js"></script>
+
+<!--  
+  <script src="js/jquery-3.1.1.min.js"></script>
+  <script src="js/tooltipster.bundle.min.js"></script>
+-->
+
+
+  <script src="js/ddngraph.js"></script>
+
+  <style> 
+    th, td { 
+        text-align:center; 
+        padding:1px;
+    } 
+  </style> 
+
+  <title>EDDY DDN</title>
+</head>
+
+<body>
+
+  <div>
+    <h4 id="title">EDDY DDN</h2>
+  </div>
+
+  <div id="cy" class="main">
+  </div>
+
+  <div class="tools">
+<!--
+   <h3>DDN</h3>
+    
+    <div>
+      <p id="DDN">DDN</p> 
+    </div>
+--> 
+<!--
+    <label for="data" class="tooltip u-pull-left" title="Switch to a new dataset">Active dataset</label>
+    <div class="u-cf"></div>
+    <select class id="data">
+        <option value="social.json" selected>Social</option>
+        <option value="genes.json">Genes</option>
+        <option value="ddns.json">DDN</option>
+        <option value="custom.json">Custom</option>
+      </select>
+-->
+
+    <div>
+      <h6 id="title2">EDDY DDN</h2>
+    </div>
+
+    <table style="width:100%">
+      <tr style='text-align:center;vertical-align:middle; background-color: #eee'>
+        <th><small>Condition</small></th>
+        <th><small>Statistical Dependency</small></th> 
+        <th><small>Known Interaction</small></th>
+      </tr>
+      <tr style="color: green">
+        <th><small><div id="C1_name">C1 (GBApPD)</div></small></td>
+        <td>---</td> 
+        <td>&mdash;</td>
+      </tr>
+      <tr style="color: red">
+        <th><small><div id="C2_name">C2 (GBApUnaffected)</div></small></td>
+        <td>---</td> 
+        <td>&mdash;</td>
+      </tr>
+      <tr style="color: grey">
+        <th><small>Shared</small></td>
+        <td>---</td> 
+        <td>&mdash;</td>
+      </tr>
+    </table>
+
+    <!-- <div id = "M1">
+      NA
+    </div> -->
+
+    <table style="width:100%">
+      <tr>
+        <th id="mediator_head" colspan="2" scope="colgroup" 
+        style='text-align:center;vertical-align:middle; background-color: #eee'>
+          <small>Mediators</small></th>
+      </tr>
+      <tr>
+        <th style="color: green; width:50%;"><small>Specificity</small></th> 
+        <th style="color: steelblue; width:50%;"><small>Essentiality</small></th>
+      </tr>
+      <tr>
+        <td style="color: green;"><div id="specificity_mediators">NA</div></td> 
+        <td style="color: steelblue;"><div id="essentiality_mediators">NA</div></td>
+      </tr>
+    </table>
+
+
+<!--
+    <div>
+      <label for="style" class="tooltip u-pull-left" title="Switch to a new graph stylesheet">Active stylesheet</label>
+      <div class="u-cf"></div>
+      <select id="style">
+          <option value="plain.cycss" selected>Plain</option>
+          <option value="fancy.json">Fancy</option>
+          <option value="ddn-style.json">DDN</option>
+        </select>
+    </div>
+--->
+
+    <table style="width:100%; border-top: none; border-bottom: none;">
+      <tr style='text-align:center; vertical-align:middle; background-color: #eee'>
+        <th colspan="2" >
+          DDN
+        </th>
+      </tr>
+      <tr>
+        <th style="text-align: right;">
+          Show Edges
+          <!-- <label for="ddnEdges" class="tooltip u-pull-left" title="Choose edges">Show Edges</label>-->
+        </th>
+        <td style="text-align:left; vertical-align:middle; padding-top: 10px; padding-left: 10px; padding-right: 10px;">
+          <div class="u-cf"></div>
+          <select id="ddnEdges">
+            <option value="DDN" selected>Both</option>
+            <option value="C1">C1</option>
+            <option value="C2">C2</option>
+          </select>
+          <i id="redo-ddn" class="fa fa-refresh action-icon tooltip" title="Redo DDN"></i>
+        </td>
+      </tr>
+
+      <tr>
+        <th style='text-align:right;vertical-align:middle;'>
+          Hide
+        </th>
+        <td style="vertical-align:bottom; text-align:left; padding-left: 10px; padding-right: 10px;">
+          <label class="hideSharedEdges">
+            <input id="hideSharedEdges" type="checkbox">
+            <span class="label-body">shared edges</span>
+          </label>    
+        </td>
+      </tr>
+
+      <tr>
+        <td>&nbsp;&nbsp;</td>
+        <td style="vertical-align:middle; text-align:left; padding-left: 10px; padding-right: 10px;">
+          <label class="hideNodeNames">
+            <input id="hideNodeNames" type="checkbox">
+            <span class="label-body">node names</span>
+          </label>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td style="vertical-align:middle; text-align:left; padding-left: 10px; padding-right: 10px;">
+          <label class="hideGroups">
+            <input id="hideGroups" type="checkbox">
+            <span class="label-body">group names</span>
+          </label>
+        </td>
+      </tr>
+    </table>  
+
+    <div>
+      <label for="layout" class="tooltip u-pull-left" title="Change layout">Active layout</label>
+      <div class="u-cf"></div>
+      <select id="layout">
+          <option value="cola">Force-directed (COLA) </option>
+          <option value="cose" selected>Force-directed (COSE) </option>
+          <option value="concentricCentrality">Concentric by centrality</option>
+          <option value="concentricHierarchyCentrality">Hierarchy by centrality</option>
+        </select>
+      <i id="redo-layout" class="fa fa-refresh action-icon tooltip" title="Redo layout"></i>
+    </div>
+
+    <div>
+      <button id="png" class="button button-primary">Download PNG</button>
+    </div>
+
+</body>
+
+</html>
