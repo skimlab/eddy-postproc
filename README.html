@@ -28,14 +28,25 @@
 <li>
 <p>Run R *<em>-postproc.Rmd</em> to generate <em>datasets</em> folder
 *<em>-postproc.Rmd</em> is included in <em>R-postproc</em> folder.</p>
+<p>This will generate all DDN graphs in JSON format, and <em>summary_table.md</em>.</p>
 </li>
 <li>
-<p>Convert <em>summary_table.md</em> to <em>summary_table.html</em></p>
+<p>Edit <em>summary_table.md</em> to add title and links to aggregated DDNs, like:</p>
 </li>
+</ol>
+<pre><code><code><div># GBAp PD vs GBAp Unaffected (title)
+
+### Aggregated DDNs (could be slow)
+
+&lt;a href=&quot;ddngraph.html?DDN=aggregated_p0_05&quot; target=&quot;_blank&quot;&gt;DDNs (P.val &lt; 0.05)&lt;/a&gt; |
+&lt;a href=&quot;ddngraph.html?DDN=aggregated_p0_10&quot; target=&quot;_blank&quot;&gt;DDNs (P.val &lt; 0.10)&lt;/a&gt;
+</div></code></code></pre>
+<ol start="3">
+<li>Convert <em>summary_table.md</em> to <em>summary_table.html</em></li>
 </ol>
 <pre><code class="language-shell"><div>pandoc summary_table.md -t html -o summary_table.html
 </div></code></pre>
-<ol start="3">
+<ol start="4">
 <li>
 <p>Edit <em>index_template.html</em> to change the study title, C1 vs. C2 and save it as <em>index.html</em></p>
 </li>

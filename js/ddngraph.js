@@ -85,7 +85,7 @@
       var sp_mediators = []
       nodes.forEach(function(n) {
         if (n.data('mediator') == "Specificity mediator" | n.data('mediator') == "Dual mediator") {
-          sp_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
+          sp_mediators.push(hrefString(n.data('name').trim(), geneCardURL + n.data('name')))
         }
       })
       if (sp_mediators.length > 0) {
@@ -95,7 +95,7 @@
       var ess_mediators = []
       nodes.forEach(function(n) {
         if (n.data('mediator') == "Essentiality mediator" | n.data('mediator') == "Dual mediator") {
-          ess_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
+          ess_mediators.push(hrefString(n.data('name').trim(), geneCardURL + n.data('name')))
         }
       })
       if (ess_mediators.length > 0) {

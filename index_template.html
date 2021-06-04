@@ -7,19 +7,28 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, user-scalable=yes"
     />
-    <title>EDDY GBApPD vs GBApUnaffected</title>
 
-    <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="css/font-awesome.css" />
-    <!-- <link rel="stylesheet" href="css/index.css" /> -->
-    <link rel="stylesheet" href="css/open-sans.css" />
-    <link rel="stylesheet" href="css/skeleton.css" />
-    <link rel="stylesheet" href="css/tooltipster.bundle.min.css" />
+    <title>GBApPD vs GBApUnaffected</title>
 
-    <!-- <script src="/lib/w3.js"></script> -->
-    <script src="js/w3.js"></script>
 
     <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif;
+        font-size: 14px;
+        padding: 0 26px;
+        line-height: 22px;
+        word-wrap: break-word;
+      }
+
+      h1 {
+        padding-bottom: 0.3em;
+        line-height: 1.2;
+      }
+
+      h1, h2, h3 {
+        font-weight: normal;
+      }
+
       table {
         border-collapse: collapse;
       }
@@ -39,12 +48,13 @@
       table>tbody>tr+tr>td {
         border-top: 1px solid;
       }
-
+/*
       tbody tr:nth-child(odd) {
         background: #eee;
       }
+*/      
       tbody tr:hover {
-        background: lightgray;
+        background: #eee;
       }
 
       a {
@@ -55,23 +65,17 @@
       <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
     <![endif]-->
 
+    <script src="js/w3.js"></script>
 
+<!-- 
+    <link rel="stylesheet" href="css/highlight.css" />
+    <link rel="stylesheet" href="css/markdown.css" />
+ -->
 
   </head>
 
   <body>
-    <header id="title-block-header">
-      <h1 style="text-align: center" class="title">
-        EDDY GBApPD vs GBApUnaffected
-      </h1>
-    </header>
     <center>
-
-      <div>
-        <h5>
-          <a href="ddngraph.html?DDN=aggregated" target="_blank">AGGREGATED DDN</a>
-        </h5>
-      </div>
 
       <div w3-include-HTML="summary_table.html"></div>
 
