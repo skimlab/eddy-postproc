@@ -6,15 +6,10 @@
    This will generate all DDN graphs in JSON format, and *summary_table.md*.
 
 
-2. Edit *summary_table.md* to add title and links to aggregated DDNs, like:
+2. Edit *summary_table.md* to edit title, like:
 
 ```
 # GBAp PD vs GBAp Unaffected (title)
-
-### Aggregated DDNs (could be slow)
-
-<a href="ddngraph.html?DDN=aggregated_p0_05" target="_blank">DDNs (P.val < 0.05)</a> |
-<a href="ddngraph.html?DDN=aggregated" target="_blank">DDNs (Full)</a>
 ```
 
 3. Convert *summary_table.md* to *summary_table.html*
@@ -23,18 +18,26 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-4. Test *index.html* and *summary_table.html* and make necessay changes.  
-   For example, one might need to change table column widths (proportions).
+4. Download ddn-cytoscape-js-template.zip into destination folder.
+   The folder will include the following folders and files.
+   1. *css* (folder)
+   2. *js* (folder)
+   3. *fonts* (folder)
+   4. *stylesheets* (folder)
+   5. index-template.html
+   6. ddngraph.html
 
-5. Copy the following folders to destination:
-   1. *css*
-   2. *js*
-   3. *fonts*
-   4. *stylesheets*
-   5. *datasets* -- this holds all DDNgraph JSON files
+5. Rename *index-template.html* to *index.html*.  
 
-6. Copy the following files to destination:
-   1. *index.html*
+6. Copy summary_table.html into the destination folder and 
+   make necessary changes in *summary_table.html*.  Specifically,  
+   one might need to change table column widths (proportions).  
+   Make sure there is no column with **0**(%).
+
+6. Create *datasets* folder and copy all DDN graph JSON files into this folder.
+
+6. Test the site and make necessary changes in
+   1. *index.html* and 
    2. *summary_table.html*
-   3. *ddngraph.html*
+
 
