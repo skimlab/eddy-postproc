@@ -14,7 +14,7 @@
 ### Aggregated DDNs (could be slow)
 
 <a href="ddngraph.html?DDN=aggregated_p0_05" target="_blank">DDNs (P.val < 0.05)</a> |
-<a href="ddngraph.html?DDN=aggregated_p0_10" target="_blank">DDNs (P.val < 0.10)</a>
+<a href="ddngraph.html?DDN=aggregated" target="_blank">DDNs (Full)</a>
 ```
 
 3. Convert *summary_table.md* to *summary_table.html*
