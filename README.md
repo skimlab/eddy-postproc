@@ -1,8 +1,9 @@
 # Workflow
 
-1. Run R **-postproc.Rmd* to generate *datasets* folder
+1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
    **-postproc.Rmd* is included in *R-postproc* folder.
 
+   One will need to check out https://github.com/skimlab/eddyR to run this workflow.
    This will generate all DDN graphs in JSON format, and *summary_table.md*.
 
 
