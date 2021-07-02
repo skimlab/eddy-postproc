@@ -1,15 +1,16 @@
 # Workflow
 
-1. Run R **-postproc.Rmd* to generate *datasets* folder
+1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
    **-postproc.Rmd* is included in *R-postproc* folder.
 
+   One will need to install https://github.com/skimlab/eddyR to run this workflow.
    This will generate all DDN graphs in JSON format, and *summary_table.md*.
 
 
 2. Edit *summary_table.md* to edit title, like:
 
 ```
-# GBAp PD vs GBAp Unaffected (title)
+# Disease vs Normal (title)
 ```
 
 3. Convert *summary_table.md* to *summary_table.html*
@@ -18,7 +19,7 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-4. Download ddn-cytoscape-js-template.zip into destination folder.
+4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder.
    The folder will include the following folders and files.
    1. *css* (folder)
    2. *js* (folder)
