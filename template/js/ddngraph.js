@@ -1,15 +1,18 @@
 (function(){
   document.addEventListener('DOMContentLoaded', function(){
     // title change
-    document.getElementById("title").innerText = "BABO";
+    document.getElementById("title").innerText = "";
 
     const urlParams = new URLSearchParams(window.location.search);
     let DDNfile = urlParams.get('DDN')
     if (DDNfile != null) {
-      document.getElementById("DDN").innerText = DDNfile;
-      DDNfile = DDNfile + '.json'    
+      document.getElementById("title").innerText = DDNfile.replaceAll("_", " ");
+      document.getElementById("title2").innerText = DDNfile.replaceAll("_", " ");
+
+      // document.getElementById("DDN").innerText = DDNfile;
+      DDNfile = DDNfile + '.json'
     } else {
-      document.getElementById("DDN").innerText = "Specify DDN json file...";
+      document.getElementById("DDN").innerText = "Specify DDN json file in URL, like ?DDN=g-beta";
     }
 
     const defaultStyleSheet = "ddn-style.json"
@@ -24,6 +27,10 @@
     let toText = obj => obj.text();
 
     var cy;
+
+    let hrefString = (name, url) => {
+      return "<a target=\"_blank\" href=\"" + url + "\">" + name + "</a>"
+    }
 
     let $stylesheet = $('#style');
     let getStylesheet = name => {
@@ -60,6 +67,48 @@
       layouts.cose.boundingBox.x2 = Math.round(Math.sqrt(nodes.length))*layouts.cola.nodeSpacing*10;
       layouts.cose.boundingBox.y2 = layouts.cose.boundingBox.x2;
 
+      // let eles = cy.edges();
+
+/*       var $links = [
+        {
+          name: 'GeneCard',
+          url: 'http://www.genecards.org/cgi-bin/carddisp.pl?gene=' + "TP53"
+        }
+      ].map(function( link ){
+        return htmlElement('a', { target: '_blank', href: link.url, 'class': 'tip-link' }, [ htmlTextNode(link.name) ]);
+      });
+
+      document.getElementById("M1").appendChild($links)
+ */
+      let geneCardURL = "http://www.genecards.org/cgi-bin/carddisp.pl?gene="
+
+      var sp_mediators = []
+      nodes.forEach(function(n) {
+        if (n.data('mediator') == "Specificity mediator" | n.data('mediator') == "Dual mediator") {
+          sp_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
+        }
+      })
+      if (sp_mediators.length > 0) {
+        sp_mediators.sort()
+      }      
+
+      var ess_mediators = []
+      nodes.forEach(function(n) {
+        if (n.data('mediator') == "Essentiality mediator" | n.data('mediator') == "Dual mediator") {
+          ess_mediators.push(hrefString(n.data('name'), geneCardURL + n.data('name')))
+        }
+      })
+      if (ess_mediators.length > 0) {
+        ess_mediators.sort()
+      }
+
+      // let metadata = cy.metadata();
+      document.getElementById("specificity_mediators").innerHTML = sp_mediators.join(", ")
+      document.getElementById("essentiality_mediators").innerHTML = ess_mediators.join(", ")
+
+      document.getElementById("C1_name").innerText = "(".concat(dataset.metadata[0].data.C1).concat(")")
+      document.getElementById("C2_name").innerText = "(".concat(dataset.metadata[0].data.C2).concat(")")
+      
       setTippies();
     }
 
@@ -67,7 +116,7 @@
     let calculateCachedCentrality = () => {
       let nodes = cy.nodes();
 
-      if( nodes.length > 0 && nodes[0].data('centrality') == null ){
+      if (nodes.length > 0 && nodes[0].data('centrality') == null) {
         let centrality = cy.elements().closenessCentralityNormalized();
 
         nodes.forEach( n => n.data( 'centrality', centrality.closeness(n) ) );
@@ -84,17 +133,19 @@
         .update();
 
       hideSharedEdges()
+      hideNodeNames()
+      hideGroups()
 
       if (edgeType == "C1") {
         cy.style()
-          .selector('edge[edgeColor = "blue"]')
+          .selector('edge[condition = "C2"]')
           .style({
             "visibility": "hidden"
           })
           .update();
       } else if(edgeType == "C2") {
         cy.style()
-          .selector('edge[edgeColor = "red"]')
+          .selector('edge[condition = "C1"]')
           .style({
             "visibility": "hidden"
           })
@@ -108,14 +159,14 @@
       if (document.getElementById('hideSharedEdges').checked) 
       {
         cy.style()
-          .selector('edge[edgeColor = "grey"]')
+          .selector('edge[condition = "Both"]')
           .style({
             "visibility": "hidden"
           })
           .update();
       } else {
         cy.style()
-          .selector('edge[edgeColor = "grey"]')
+          .selector('edge[condition = "Both"]')
           .style({
             "visibility": "visible"
           })
@@ -123,7 +174,45 @@
       }
     }
 
+    let $hideNodeNamesCheckbox = $('#hideNodeNames');
+    let hideNodeNames = () => {
+      if (document.getElementById('hideNodeNames').checked) 
+      {
+        cy.style()
+          .selector('node[mediator = ""]')
+          .style({
+            "content": ""
+          })
+          .update();
+      } else {
+        cy.style()
+          .selector('node[mediator = ""]')
+          .style({
+            "content": "data(name)"
+          })
+          .update();
+      }
+    }
 
+    let $hideGroupsCheckbox = $('#hideGroups');
+    let hideGroups = () => {
+      if (document.getElementById('hideGroups').checked) 
+      {
+        cy.style()
+          .selector(':parent')
+          .style({
+            "label": "",
+          })
+          .update();
+      } else {
+        cy.style()
+          .selector(':parent')
+          .style({
+            "label": "data(id)",
+          })
+        .update();
+      }
+    }
     let $layout = $('#layout');
     let maxLayoutDuration = 2500;
     let layoutPadding = 50;
@@ -222,74 +311,18 @@
 
     let $PNGbutton = $('#png');
     let exportPNG = () => {
-      var text = cy.png({'output': 'blob'});
-      var name = "test";
+      var myPNG = cy.png({'output': 'blob', bg:"#ffffff" });
+
+      var name = document.getElementById("title").innerText 
       var type = "image/png";
       var a = document.createElement('a');
-      var file = new Blob([text]);
+      var file = new Blob([myPNG], { type: type });
       a.href = URL.createObjectURL(file);
       a.download = name;
       a.click();
       a.remove()
     }
 
-    let $algorithm = $('#algorithm');
-    let getAlgorithm = (name) => {
-      switch (name) {
-        case 'bfs': return Promise.resolve(cy.elements().bfs.bind(cy.elements()));
-        case 'dfs': return Promise.resolve(cy.elements().dfs.bind(cy.elements()));
-        case 'astar': return Promise.resolve(cy.elements().aStar.bind(cy.elements()));
-        case 'none': return Promise.resolve(undefined);
-        case 'custom': return Promise.resolve(undefined); // replace with algorithm of choice
-        default: return Promise.resolve(undefined);
-      }
-    };
-    let runAlgorithm = (algorithm) => {
-      if (algorithm === undefined) {
-        return Promise.resolve(undefined);
-      } else {
-        let options = {
-          root: '#' + cy.nodes()[0].id(),
-          // astar requires target; goal property is ignored for other algorithms
-          goal: '#' + cy.nodes()[Math.round(Math.random() * (cy.nodes().size() - 1))].id()
-        };
-        return Promise.resolve(algorithm(options));
-      }
-    }
-    let currentAlgorithm;
-    let animateAlgorithm = (algResults) => {
-      // clear old algorithm results
-      cy.$().removeClass('highlighted start end');
-      currentAlgorithm = algResults;
-      if (algResults === undefined || algResults.path === undefined) {
-        return Promise.resolve();
-      }
-      else {
-        let i = 0;
-        // for astar, highlight first and final before showing path
-        if (algResults.distance) {
-          // Among DFS, BFS, A*, only A* will have the distance property defined
-          algResults.path.first().addClass('highlighted start');
-          algResults.path.last().addClass('highlighted end');
-          // i is not advanced to 1, so start node is effectively highlighted twice.
-          // this is intentional; creates a short pause between highlighting ends and highlighting the path
-        }
-        return new Promise(resolve => {
-          let highlightNext = () => {
-            if (currentAlgorithm === algResults && i < algResults.path.length) {
-              algResults.path[i].addClass('highlighted');
-              i++;
-              setTimeout(highlightNext, 500);
-            } else {
-              // resolve when finished or when a new algorithm has started visualization
-              resolve();
-            }
-          }
-          highlightNext();
-        });
-      }
-    };
-    let applyAlgorithmFromSelect = () => Promise.resolve( $algorithm.value ).then( getAlgorithm ).then( runAlgorithm ).then( animateAlgorithm );
 
     cy = window.cy = cytoscape({
 //      container: $('#cy')
@@ -300,7 +333,7 @@
     tryPromise( applyDatasetFromSelect ).then( applyStylesheetFromSelect ).then( applyLayoutFromSelect );
 
     //$dataset.addEventListener('change', function(){
-      tryPromise( applyDatasetFromSelect ).then( applyLayoutFromSelect ).then ( applyAlgorithmFromSelect );
+      // tryPromise( applyDatasetFromSelect ).then( applyLayoutFromSelect ).then ( applyAlgorithmFromSelect );
     //});
 
 
@@ -388,6 +421,9 @@
       cy.nodes().forEach(function(n){
         var g = n.data('name');
 
+        if (g == null) {
+          return ""
+        }
         var $links = [
           {
             name: 'GeneCard',
@@ -419,11 +455,10 @@
     $('#redo-layout').addEventListener('click', applyLayoutFromSelect);
 
     $hideSharedEdgesCheckbox.addEventListener('click', hideSharedEdges);
+    $hideNodeNamesCheckbox.addEventListener('click', hideNodeNames);
+    $hideGroupsCheckbox.addEventListener('click', hideGroups);
 
-    // $PNGbutton.addEventListener('click', exportPNG);
-
-    $algorithm.addEventListener('change', applyAlgorithmFromSelect);
-    $('#redo-algorithm').addEventListener('click', applyAlgorithmFromSelect);
+    $PNGbutton.addEventListener('click', exportPNG);
   });
 })();
 
