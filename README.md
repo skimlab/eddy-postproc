@@ -10,7 +10,7 @@
 2. Edit *summary_table.md* to edit title, like:
 
 ```
-# GBAp PD vs GBAp Unaffected (title)
+# Disease vs Normal (title)
 ```
 
 3. Convert *summary_table.md* to *summary_table.html*
@@ -19,7 +19,7 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-4. Download ddn-cytoscape-js-template.zip into destination folder.
+4. Download this repository into destination folder.
    The folder will include the following folders and files.
    1. *css* (folder)
    2. *js* (folder)
