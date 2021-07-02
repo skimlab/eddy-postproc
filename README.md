@@ -19,7 +19,7 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-4. Download this repository into destination folder.
+4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder.
    The folder will include the following folders and files.
    1. *css* (folder)
    2. *js* (folder)
