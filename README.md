@@ -19,8 +19,7 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder.
-   The folder will include the following folders and files.
+4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder and copy those files and te folders in template folder into your destination folder.  The folder will include the following folders and files.
    1. *css* (folder)
    2. *js* (folder)
    3. *fonts* (folder)
@@ -38,9 +37,12 @@ pandoc summary_table.md -t html -o summary_table.html
    1. *pathway* column to large, like **40**(%)
    2. *DDN* and *n* columns to **1**(%)
    3. *mediator* columns to **8**(%)
+   4. the rest to between **2** and **6**(%)
+
+   The proportions do not have to add up to 100%.
 
 
-7. Create *datasets* folder and copy all DDN graph JSON files into this folder.
+7. Create *datasets* folder inside the destination folder and copy all DDN graph JSON files into *datasets* folder.
 
 8. Test the site and make necessary changes in
    1. *index.html* and 
