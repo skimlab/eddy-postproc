@@ -3,34 +3,39 @@ title: "R Notebook"
 output: html_notebook
 ---
 
+Loading required library.
 ```{r}
 library(eddyR)
-library(jsonlite)
-library(knitr)
 ```
 
+Setting input and output folders.
 ```{r}
-input_dir = "./EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected/"
-output_dir = "./EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected_out_dir/"
-ddn_json_dir = "./EDDY/2020-12-18-EDDY-PPMI/eddy-analysis/GBApPD_vs_GBApUnaffected_ddn_json/"
+input_dir = "./example/eddy-analysis"
+output_dir = "./example/output/summary"
+ddn_json_dir = "./example/output/datasets/"
 ```
 
-
+First, post process EDDY run to get DDNs, summary table and DDN graphs (if create_ddn_graph is set to TRUE). 
 ```{r}
-eddy_ppmi <- post_proc_EDDY(eddy_run_dir = input_dir, create_ddn_graph = TRUE)
+eddy_postproc <- post_proc_EDDY_folder(eddy_run_dir = input_dir, create_ddn_graph = TRUE)
 ```
 
+Write summary table in CSV format.
+```{r, warning=FALSE}
+write_eddy_postproc_csv(eddy_postproc, output_dir = output_dir)
+```
 
+Now, save DDN graphs into PDF files.
+```{r, warning=FALSE}
+write_eddy_postproc_DDN_to_pdf(eddy_postproc, output_dir = output_dir)
+```
+
+Then, save DDN graphs into JSON files.
 ```{r}
-write_eddy_postproc_pdf(eddy_ppmi, out_dir = output_dir)
+eddy_postproc <- write_eddy_postproc_DDN_to_json(eddy_postproc, json_dir = ddn_json_dir)
 ```
 
+Finally, save summary table in Markdown format, which to be convereted to html later by pandoc or markdown converter.
 ```{r}
-eddy_ppmi <- write_eddy_postproc_json(eddy_ppmi, json_dir = ddn_json_dir)
+eddy_postproc <- write_eddy_summary_table_markdown(eddy_postproc, output_dir = output_dir)
 ```
-
-```{r}
-eddy_ppmi <- write_eddy_summary_table_markdown(eddy_ppmi, output_dir = output_dir)
-```
-
-
