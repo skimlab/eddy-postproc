@@ -1,19 +1,19 @@
 # Workflow
 
 1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
-   **-postproc.Rmd* is included in *R-postproc* folder.
+   **-postproc.Rmd* is included in *workflow* folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
-   This will generate all DDN graphs in JSON format, and *summary_table.md*.
+   This will generate all DDN graphs in PDF format and JSON format, and *summary_table.md*.
 
 
-2. Edit *summary_table.md* to edit title, like:
+2. Edit *summary_table.md* to edit title, if needed.  This should be the first line of the file.
 
 ```
 # Disease vs Normal (title)
 ```
 
-3. Convert *summary_table.md* to *summary_table.html*
+3. Convert *summary_table.md* to *summary_table.html* using a markdown converter.  For example, 
 
 ```shell
 pandoc summary_table.md -t html -o summary_table.html
