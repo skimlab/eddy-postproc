@@ -1,0 +1,11 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_INTERACTION_BETWEEN_L1_AND_ANKYRINS
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000026 	 0.000043 
+Network 2	 0.006923 	 0.867077 
+Network 3	 0.517731 	 0.069605 
+Network 4	 0.000024 	 0.000039 
+Network 5	 0.475297 	 0.063235 

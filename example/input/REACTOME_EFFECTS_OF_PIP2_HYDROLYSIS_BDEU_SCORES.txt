@@ -1,0 +1,12 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.001019 	 0.043032 
+Network 2	 0.000063 	 0.008391 
+Network 3	 0.000596 	 0.733388 
+Network 4	 0.000037 	 0.142999 
+Network 5	 0.806792 	 0.072158 
+Network 6	 0.191494 	 0.000033 

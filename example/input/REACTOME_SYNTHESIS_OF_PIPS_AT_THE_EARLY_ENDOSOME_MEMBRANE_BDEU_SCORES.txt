@@ -1,0 +1,10 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000045 	 0.013332 
+Network 2	 0.000267 	 0.985639 
+Network 3	 0.987679 	 0.000984 
+Network 4	 0.012009 	 0.000045 

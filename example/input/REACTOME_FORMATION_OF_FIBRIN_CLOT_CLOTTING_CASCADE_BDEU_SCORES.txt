@@ -1,0 +1,67 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.015008 	 0.022462 
+Network 2	 0.141686 	 0.033450 
+Network 3	 0.011421 	 0.026822 
+Network 4	 0.024551 	 0.143442 
+Network 5	 0.025175 	 0.014717 
+Network 6	 0.018894 	 0.003692 
+Network 7	 0.031693 	 0.002419 
+Network 8	 0.178371 	 0.005498 
+Network 9	 0.149108 	 0.131275 
+Network 10	 0.015794 	 0.088152 
+Network 11	 0.299211 	 0.003602 
+Network 12	 0.018683 	 0.171284 
+Network 13	 0.019158 	 0.017573 
+Network 14	 0.000652 	 0.009703 
+Network 15	 0.000440 	 0.016646 
+Network 16	 0.000059 	 0.000716 
+Network 17	 0.000157 	 0.001878 
+Network 18	 0.000825 	 0.004780 
+Network 19	 0.000145 	 0.000060 
+Network 20	 0.002717 	 0.009399 
+Network 21	 0.001019 	 0.008902 
+Network 22	 0.001694 	 0.007575 
+Network 23	 0.007617 	 0.061316 
+Network 24	 0.000198 	 0.003967 
+Network 25	 0.001836 	 0.020054 
+Network 26	 0.000112 	 0.000036 
+Network 27	 0.001908 	 0.008857 
+Network 28	 0.000363 	 0.003315 
+Network 29	 0.000629 	 0.005977 
+Network 30	 0.001362 	 0.004304 
+Network 31	 0.001338 	 0.015378 
+Network 32	 0.000895 	 0.012653 
+Network 33	 0.000110 	 0.001356 
+Network 34	 0.000524 	 0.007914 
+Network 35	 0.001098 	 0.013789 
+Network 36	 0.002324 	 0.009878 
+Network 37	 0.000458 	 0.004584 
+Network 38	 0.000195 	 0.001751 
+Network 39	 0.001290 	 0.004385 
+Network 40	 0.001390 	 0.006792 
+Network 41	 0.000524 	 0.005513 
+Network 42	 0.000762 	 0.003900 
+Network 43	 0.000014 	 0.000012 
+Network 44	 0.000580 	 0.002258 
+Network 45	 0.000664 	 0.002716 
+Network 46	 0.001132 	 0.006233 
+Network 47	 0.000911 	 0.003541 
+Network 48	 0.001535 	 0.005032 
+Network 49	 0.000327 	 0.003573 
+Network 50	 0.000247 	 0.000862 
+Network 51	 0.000172 	 0.000061 
+Network 52	 0.000602 	 0.007918 
+Network 53	 0.000226 	 0.002148 
+Network 54	 0.000055 	 0.000049 
+Network 55	 0.000144 	 0.000717 
+Network 56	 0.001870 	 0.005612 
+Network 57	 0.000459 	 0.001633 
+Network 58	 0.008287 	 0.028989 
+Network 59	 0.000406 	 0.006288 
+Network 60	 0.000030 	 0.000008 
+Network 61	 0.000943 	 0.002588 

@@ -1,0 +1,9 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_REGULATION_OF_IFNA_SIGNALING
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.999868 	 0.000029 
+Network 2	 0.000045 	 0.360594 
+Network 3	 0.000087 	 0.639377 

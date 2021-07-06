@@ -1,0 +1,26 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_RNA_POL_III_TRANSCRIPTION
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000020 	 0.271278 
+Network 2	 0.000020 	 0.088691 
+Network 3	 0.001454 	 0.470384 
+Network 4	 0.001412 	 0.153786 
+Network 5	 0.035959 	 0.001745 
+Network 6	 0.126509 	 0.002966 
+Network 7	 0.003841 	 0.000125 
+Network 8	 0.002661 	 0.000045 
+Network 9	 0.010478 	 0.000830 
+Network 10	 0.013180 	 0.000263 
+Network 11	 0.000775 	 0.000021 
+Network 12	 0.434153 	 0.006233 
+Network 13	 0.007259 	 0.000297 
+Network 14	 0.087644 	 0.001062 
+Network 15	 0.002115 	 0.000141 
+Network 16	 0.009361 	 0.000076 
+Network 17	 0.032124 	 0.000160 
+Network 18	 0.025539 	 0.000505 
+Network 19	 0.159128 	 0.000941 
+Network 20	 0.046369 	 0.000448 

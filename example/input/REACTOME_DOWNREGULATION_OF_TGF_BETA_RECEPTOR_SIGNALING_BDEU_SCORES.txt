@@ -1,0 +1,10 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_DOWNREGULATION_OF_TGF_BETA_RECEPTOR_SIGNALING
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000045 	 0.600081 
+Network 2	 0.000191 	 0.394573 
+Network 3	 0.003162 	 0.000027 
+Network 4	 0.996602 	 0.005319 

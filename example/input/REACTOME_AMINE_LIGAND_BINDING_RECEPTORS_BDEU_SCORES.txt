@@ -1,0 +1,10 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_AMINE_LIGAND_BINDING_RECEPTORS
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000042 	 0.002002 
+Network 2	 0.007779 	 0.997796 
+Network 3	 0.068269 	 0.000045 
+Network 4	 0.923910 	 0.000156 

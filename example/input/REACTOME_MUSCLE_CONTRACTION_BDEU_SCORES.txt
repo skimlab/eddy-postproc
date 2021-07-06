@@ -1,0 +1,32 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_MUSCLE_CONTRACTION
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.180180 	 0.000178 
+Network 2	 0.291855 	 0.000472 
+Network 3	 0.050686 	 0.019954 
+Network 4	 0.046556 	 0.005556 
+Network 5	 0.029468 	 0.003873 
+Network 6	 0.196166 	 0.000638 
+Network 7	 0.075411 	 0.014741 
+Network 8	 0.043843 	 0.002862 
+Network 9	 0.027067 	 0.001079 
+Network 10	 0.056849 	 0.001505 
+Network 11	 0.000137 	 0.014217 
+Network 12	 0.000239 	 0.417830 
+Network 13	 0.000303 	 0.033717 
+Network 14	 0.000015 	 0.000029 
+Network 15	 0.000179 	 0.125056 
+Network 16	 0.000042 	 0.009084 
+Network 17	 0.000275 	 0.016835 
+Network 18	 0.000072 	 0.002449 
+Network 19	 0.000125 	 0.007099 
+Network 20	 0.000081 	 0.052731 
+Network 21	 0.000109 	 0.176183 
+Network 22	 0.000049 	 0.000045 
+Network 23	 0.000158 	 0.005809 
+Network 24	 0.000022 	 0.000019 
+Network 25	 0.000099 	 0.087968 
+Network 26	 0.000013 	 0.000070 

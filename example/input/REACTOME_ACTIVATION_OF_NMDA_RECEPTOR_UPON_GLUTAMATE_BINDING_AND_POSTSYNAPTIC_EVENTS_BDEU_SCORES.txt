@@ -1,0 +1,29 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_ACTIVATION_OF_NMDA_RECEPTOR_UPON_GLUTAMATE_BINDING_AND_POSTSYNAPTIC_EVENTS
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000041 	 0.000091 
+Network 2	 0.000819 	 0.014867 
+Network 3	 0.048502 	 0.682961 
+Network 4	 0.000583 	 0.001538 
+Network 5	 0.002443 	 0.004196 
+Network 6	 0.000025 	 0.000100 
+Network 7	 0.006734 	 0.001758 
+Network 8	 0.002372 	 0.000300 
+Network 9	 0.142793 	 0.086308 
+Network 10	 0.001870 	 0.000424 
+Network 11	 0.001654 	 0.000343 
+Network 12	 0.001304 	 0.000486 
+Network 13	 0.039647 	 0.020830 
+Network 14	 0.154091 	 0.034697 
+Network 15	 0.004695 	 0.002015 
+Network 16	 0.554974 	 0.143765 
+Network 17	 0.005066 	 0.000810 
+Network 18	 0.026171 	 0.002929 
+Network 19	 0.000398 	 0.000147 
+Network 20	 0.000148 	 0.000031 
+Network 21	 0.001741 	 0.000424 
+Network 22	 0.002497 	 0.000370 
+Network 23	 0.001433 	 0.000610 

@@ -1,0 +1,17 @@
+		 BDEU SCORES
+input : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_Expression.txt
+class : /raid/ccsb/eddy-analysis/2020-12-4-PPMI/data/COVID19-preprocess/GBApPD_vs_GBApUnaffected/GBApPD_vs_GBApUnaffected_ClassFile.txt
+geneset : REACTOME_DESTABILIZATION_OF_MRNA_BY_TRISTETRAPROLIN_TTP
+
+Network 	  GBApPD  	   	    GBApUnaffected
+Network 1	 0.000112 	 0.009141 
+Network 2	 0.000161 	 0.002134 
+Network 3	 0.001666 	 0.180135 
+Network 4	 0.000026 	 0.000150 
+Network 5	 0.001163 	 0.771479 
+Network 6	 0.000378 	 0.002956 
+Network 7	 0.000264 	 0.012661 
+Network 8	 0.000037 	 0.000035 
+Network 9	 0.562044 	 0.014024 
+Network 10	 0.166199 	 0.001059 
+Network 11	 0.267950 	 0.006226 
