@@ -164,9 +164,21 @@
             "visibility": "hidden"
           })
           .update();
+        cy.style()
+          .selector('edge[condition = "common"]')
+          .style({
+            "visibility": "hidden"
+          })
+          .update();
       } else {
         cy.style()
           .selector('edge[condition = "Both"]')
+          .style({
+            "visibility": "visible"
+          })
+          .update();
+        cy.style()
+          .selector('edge[condition = "common"]')
           .style({
             "visibility": "visible"
           })
