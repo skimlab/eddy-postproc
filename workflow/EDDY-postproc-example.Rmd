@@ -3,7 +3,10 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-<<<<<<< Updated upstream
+This is to demonstrate how to use 'eddyR' package to process EDDY run folder, an output of eddy-gpu program, and produce an interactive web resource to review the results.   This will generate all DDN graphs in JSON format, and summary_table.md.
+
+One will need to install https://github.com/skimlab/eddyR to run this workflow.
+
 Loading required library.
 ```{r}
 library(eddyR)
@@ -23,43 +26,12 @@ eddy_postproc <- post_proc_EDDY_folder(eddy_run_dir = input_dir, create_ddn_grap
 
 Write summary table in CSV format.
 ```{r, warning=FALSE}
-write_eddy_postproc_csv(eddy_postproc, output_dir = output_dir)
+write_eddy_postproc_to_csv(eddy_postproc, output_dir = output_dir)
 ```
 
 Now, save DDN graphs into PDF files.
 ```{r, warning=FALSE}
 write_eddy_postproc_DDN_to_pdf(eddy_postproc, output_dir = output_dir)
-=======
-This is to demonstrate how to use 'eddyR' package to process EDDY run folder, an output of eddy-gpu program, and produce an interactive web resource to review the results.   This will generate all DDN graphs in JSON format, and summary_table.md.
-
-One will need to install https://github.com/skimlab/eddyR to run this workflow.
-
-```{r}
-library(eddyR)
-# library(jsonlite)
-# library(knitr)
-```
-
-
-This is to set up run folders -- input, output and json folders.
-```{r}
-input_dir = "../example/input"
-output_dir = "../example/output/summary"
-ddn_json_dir = "../example/output/datasets"
-```
-
-
-The first step is to process all eddy outputs, mainly 'result.txt' (result summary) and *_EdgeList.txt files (DDNs).  This will parse all the results (summary table) and produce DDNs for pathway of statistical significance, DDNs for aggregated pathways, mediators for all individual DDNs and aggregated DDNs.  If 'create_ddn_graph' is TRUE, DDNs graphs (in ggraph/ggplot2 format) will be also created.
-
-```{r}
-eddy_postproc <- post_proc_EDDY(eddy_run_dir = input_dir,
-                                create_ddn_graph = TRUE)
-```
-
-This step (optional) will write all DDN graph
-```{r}
-write_eddy_postproc_pdf(eddy_ppmi, out_dir = output_dir)
->>>>>>> Stashed changes
 ```
 
 Then, save DDN graphs into JSON files.
