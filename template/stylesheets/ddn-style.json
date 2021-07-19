@@ -32,11 +32,16 @@
       "shape": "diamond",
       "width": "15",
       "height": "15",
-      "color": "darkgrey",
       "background-color": "yellowgreen",
-      "text-outline-color": "green", 
-      "text-outline-width": "0.5px", 
-      "font-size": "12"
+      "color": "white",
+      "text-valign": "bottom", 
+      "text-halign": "center", 
+      "text-border-color": "white",
+      "text-border-width": "2px",
+      "text-background-color": "yellowgreen",
+      "text-background-opacity": 0.8,
+      "text-background-padding": "3px",
+      "font-size": "10"
     }
   },
   {
@@ -45,11 +50,16 @@
       "shape": "diamond",
       "width": "15",
       "height": "15",
-      "color": "darkgrey",
       "background-color": "steelblue",
-      "text-outline-color": "blue", 
-      "text-outline-width": "0.5px", 
-      "font-size": "12"
+      "color": "white",
+      "text-valign": "bottom", 
+      "text-halign": "center", 
+      "text-border-color": "white",
+      "text-border-width": "2px",
+      "text-background-color": "steelblue",
+      "text-background-opacity": 0.8,
+      "text-background-padding": "3px",
+      "font-size": "10"
     }
   },
   {
@@ -58,11 +68,16 @@
       "shape": "diamond",
       "width": "15",
       "height": "15",
-      "color": "darkgrey",
       "background-color": "red",
-      "text-outline-color": "red", 
-      "text-outline-width": "0.5px", 
-      "font-size": "12"
+      "color": "white",
+      "text-valign": "bottom", 
+      "text-halign": "center", 
+      "text-border-color": "white",
+      "text-border-width": "2px",
+      "text-background-color": "red",
+      "text-background-opacity": 0.8,
+      "text-background-padding": "3px",
+      "font-size": "10"
     }
   },
 
@@ -157,14 +172,16 @@
     "selector": ":parent", 
     "style": { 
         "label": "data(id)",
-        "font-size": 8,
-        "color": "tomato",
+        "font-size": 10,
+        "color": "white",
         "text-valign": "bottom", 
         "text-halign": "center", 
+        "text-background-color": "tomato",
+        "text-background-opacity": 1.0,
+        "text-background-padding": "3px",
         "border-width": 0, 
         "background-color": "white", 
-        "text-outline-color": "#555", 
-        "text-outline-width": "0.5px", 
+        "background-opacity": 0,
         "z-index": "100" 
     } 
   }
