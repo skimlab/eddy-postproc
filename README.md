@@ -20,8 +20,10 @@
 ```shell
 pandoc summary_table.md -t html -o summary_table.html
 ```
+If you don't have **pandoc** installed, please visit [Pandoc](https://pandoc.org) for installation instruction.
 
-4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder and copy those files and te folders in template folder into your destination folder.  The folder will include the following folders and files.
+
+4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder and copy those files and te folders in template folder into your destination folder.  Or these are the same files in *template* folder.  The folder will include the following folders and files.
    1. *css* (folder)
    2. *js* (folder)
    3. *fonts* (folder)
