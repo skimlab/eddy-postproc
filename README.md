@@ -5,10 +5,11 @@
    **-postproc.Rmd* is included in *workflow* folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
-   This will generate all DDN graphs in PDF format and JSON format, and *summary_table.md*.
+   This will generate all DDN graphs in PDF format (*output_dir*) and JSON format (*ddn_json_dir*), 
+   and **summary_table.md** (*output_dir*).
 
 
-2. Edit *summary_table.md* to edit title, if needed.  This should be the first line of the file.
+2. Edit *summary_table.md* in *output_dir* folder to edit title, if needed.  This should be the first line of the file.
 
 ```
 # Disease vs Normal (title)
