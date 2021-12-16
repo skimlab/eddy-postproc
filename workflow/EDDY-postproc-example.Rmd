@@ -24,6 +24,9 @@ output_dir = "./example/output/summary"
 ddn_json_dir = "./example/output/datasets/"
 ```
 
+If *output_dir* and/or *ddn_json_dir* does not exist, they will be created.
+
+
 First, post process EDDY run to get DDNs, summary table and DDN graphs (if create_ddn_graph is set to TRUE). 
 ```{r}
 eddy_postproc <- post_proc_EDDY_folder(eddy_run_dir = input_dir, create_ddn_graph = TRUE)
