@@ -1,6 +1,7 @@
 # Workflow
 
 1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
+
    **-postproc.Rmd* is included in *workflow* folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
