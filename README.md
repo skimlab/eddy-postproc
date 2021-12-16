@@ -33,8 +33,8 @@ If you don't have **pandoc** installed, please visit [Pandoc](https://pandoc.org
 
 5. Rename *index-template.html* to *index.html*.  
 
-6. Copy summary_table.html into the destination folder and 
-   make necessary changes in *summary_table.html*.  Specifically,  
+6. Copy **summary_table.html** in *summary* folder into the folder where **index.html** is and 
+   make necessary changes in **summary_table.html**.  Specifically,  
    one might need to change table column widths (proportions).  
    Make sure there is no column with **0**(%). 
    It is recommended to make 
