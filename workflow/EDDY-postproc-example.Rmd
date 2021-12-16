@@ -14,9 +14,14 @@ library(eddyR)
 
 Setting input and output folders.
 ```{r}
-input_dir = "./example/eddy-analysis"
-output_dir = "./example/output/summary"
-ddn_json_dir = "./example/output/datasets/"
+# a folder where EDDY outputs are stored -- *_EdgeList.txt
+input_dir = "./eddy-runs/IPAH_B_cells_vs_Control_B_cells/"
+
+# a folder where postprocessed summary results will be saved
+output_dir = "./eddy-postproc/IPAH_B_cells_vs_Control_B_cells/summary"
+
+# a folder where DDN files will be saved in JSON format
+ddn_json_dir = "./eddy-postproc/IPAH_B_cells_vs_Control_B_cells/datasets/"
 ```
 
 First, post process EDDY run to get DDNs, summary table and DDN graphs (if create_ddn_graph is set to TRUE). 
