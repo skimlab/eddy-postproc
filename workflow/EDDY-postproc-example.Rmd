@@ -15,14 +15,21 @@ library(eddyR)
 Setting input and output folders.
 ```{r}
 # a folder where EDDY outputs are stored -- *_EdgeList.txt
-input_dir = "./example/input/"
+input_dir = "./eddy-runs/IPAH_B_cells_vs_Control_B_cells"
 
-# a folder where postprocessed summary results will be saved
-output_dir = "./example/output/summary"
+# a base folder where postprocessed summary results and DDN graphs will be saved.
+output_dir = "./eddy-postproc/IPAH_B_cells_vs_Control_B_cells"
+```
+
+
+```{r}
+# a folder where postprocessed summary results will be saved.
+summary_dir = file.path(output_dir, "summary")
 
 # a folder where DDN files will be saved in JSON format
-ddn_json_dir = "./example/output/datasets/"
+ddn_json_dir = file.path(output_dir, "datasets")
 ```
+
 
 If *output_dir* and/or *ddn_json_dir* does not exist, they will be created.
 
@@ -34,12 +41,12 @@ eddy_postproc <- post_proc_EDDY_folder(eddy_run_dir = input_dir, create_ddn_grap
 
 Write summary table in CSV format.
 ```{r, warning=FALSE}
-write_eddy_postproc_to_csv(eddy_postproc, output_dir = output_dir)
+write_eddy_postproc_to_csv(eddy_postproc, output_dir = summary_dir)
 ```
 
 Now, save DDN graphs into PDF files.
 ```{r, warning=FALSE}
-write_eddy_postproc_DDN_to_pdf(eddy_postproc, output_dir = output_dir)
+write_eddy_postproc_DDN_to_pdf(eddy_postproc, output_dir = summary_dir)
 ```
 
 Then, save DDN graphs into JSON files.
@@ -49,5 +56,5 @@ eddy_postproc <- write_eddy_postproc_DDN_to_json(eddy_postproc, json_dir = ddn_j
 
 Finally, save summary table in Markdown format, which to be convereted to html later by pandoc or markdown converter.
 ```{r}
-eddy_postproc <- write_eddy_summary_table_markdown(eddy_postproc, output_dir = output_dir)
+eddy_postproc <- write_eddy_summary_table_markdown(eddy_postproc, output_dir = summary_dir)
 ```
