@@ -39,21 +39,22 @@ pandoc summary_table.md -t html -o summary_table.html
    5. index-template.html
    6. ddngraph.html
 
-5. Copy/move **summary_table.html** in **summary** folder into the folder (should be *output_dir* folder) where **index.html** is, and 
-   make necessary changes in **summary_table.html**.  Specifically, one might need to change table column widths (proportions).  
-   Make sure there is no column with **0**(%). It is recommended to make 
-   
-   1. *pathway* column to large, like **40**(%)
-   2. *DDN* and *n* columns to **1**(%)
-   3. *mediator* columns to **8**(%)
-   4. the rest to between **2** and **6**(%)
-
-   The proportions do not have to add up to 100%.
-
-
-6. Test the site and make necessary changes in
-   1. **index.html** and 
-   2. **summary_table.html**
+5. Copy/move **summary_table.html** in **summary** folder into the folder (should be *output_dir* folder) where **index.html** is. 
 
 7. Move all the files in *output_dir* into your destination folder for web-hosting.
+
+7. Test the site and make necessary changes in
+   1. **index.html** and 
+   2. **summary_table.html**
+   3. For example, make necessary changes in **summary_table.html**.  Specifically, one might need to change table column widths (proportions).  
+   Make sure there is no column with **0**(%). It is recommended to make 
+   
+    1. *pathway* column to large, like **40**(%)
+    2. *DDN* and *n* columns to **1**(%)
+    3. *mediator* columns to **8**(%)
+    4. the rest to between **2** and **6**(%)
+
+    The proportions do not have to add up to 100%.
+
+
 
