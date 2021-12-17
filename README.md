@@ -11,7 +11,7 @@
    and **summary_table.md** (*output_dir*).
 
 
-2. Edit *summary_table.md* in *output_dir* folder to edit title, if needed.  This should be the first line of the file.
+2. Edit *summary_table.md* in *output_dir* folder (as specified in **-postproc.Rmd*) to edit title, if needed.  This should be the first line of the file.
 
 ```
 # Disease vs Normal (title)
