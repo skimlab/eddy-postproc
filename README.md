@@ -39,13 +39,12 @@ pandoc summary_table.md -t html -o summary_table.html
    5. index-template.html
    6. ddngraph.html
 
-5. Rename *index-template.html* to *index.html*.  
+5. Rename **index-template.html** to **index.html**.  
 
-6. Copy/move **summary_table.html** in *summary* folder into the folder where **index.html** is, and 
-   make necessary changes in **summary_table.html**.  Specifically,  
-   one might need to change table column widths (proportions).  
-   Make sure there is no column with **0**(%). 
-   It is recommended to make 
+6. Copy/move **summary_table.html** in **summary** folder into the folder (should be *output_dir* folder) where **index.html** is, and 
+   make necessary changes in **summary_table.html**.  Specifically, one might need to change table column widths (proportions).  
+   Make sure there is no column with **0**(%). It is recommended to make 
+   
    1. *pathway* column to large, like **40**(%)
    2. *DDN* and *n* columns to **1**(%)
    3. *mediator* columns to **8**(%)
@@ -54,10 +53,11 @@ pandoc summary_table.md -t html -o summary_table.html
    The proportions do not have to add up to 100%.
 
 
-7. Create *datasets* folder inside the destination folder and copy all DDN graph JSON files into *datasets* folder.
+7. Create *datasets* folder inside the *output_dir* folder and copy all DDN graph JSON files into *output_dir*/**datasets** folder.
 
 8. Test the site and make necessary changes in
-   1. *index.html* and 
-   2. *summary_table.html*
+   1. **index.html** and 
+   2. **summary_table.html**
 
+9. Move all the files into your destination folder for web-hosting.
 
