@@ -59,5 +59,5 @@ pandoc summary_table.md -t html -o summary_table.html
    1. **index.html** and 
    2. **summary_table.html**
 
-9. Move all the files into your destination folder for web-hosting.
+9. Move all the files in *output_dir* into your destination folder for web-hosting.
 
