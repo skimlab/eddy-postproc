@@ -51,11 +51,9 @@ pandoc summary_table.md -t html -o summary_table.html
    The proportions do not have to add up to 100%.
 
 
-6. Create *datasets* folder inside the *output_dir* folder and copy all DDN graph JSON files into *output_dir*/**datasets** folder.
-
-7. Test the site and make necessary changes in
+6. Test the site and make necessary changes in
    1. **index.html** and 
    2. **summary_table.html**
 
-8. Move all the files in *output_dir* into your destination folder for web-hosting.
+7. Move all the files in *output_dir* into your destination folder for web-hosting.
 
