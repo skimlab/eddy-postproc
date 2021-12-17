@@ -18,7 +18,8 @@
 # Disease vs Normal (title)
 ```
 
-3. Convert *summary_table.md* to *summary_table.html* using a markdown converter.  For example, 
+3. In the command line, move to *output_dir* folder and run the following command to convert 
+   *summary_table.md* to *summary_table.html* using a markdown converter.
 
 ```shell
 pandoc summary_table.md -t html -o summary_table.html
