@@ -26,8 +26,8 @@
 pandoc summary_table.md -t html -o summary_table.html
 ```
 
-   If you don't have **pandoc** installed, please visit [Pandoc](https://pandoc.org) 
-   for installation instruction.
+    If you don't have **pandoc** installed, please visit [Pandoc](https://pandoc.org) 
+    for installation instruction.
 
 
 
