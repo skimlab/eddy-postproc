@@ -5,6 +5,8 @@
    **-postproc.Rmd* is included in *workflow* folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
+   
+   
    This will generate all DDN graphs in PDF format (*output_dir*) and JSON format (*ddn_json_dir*), 
    and **summary_table.md** (*output_dir*).
 
