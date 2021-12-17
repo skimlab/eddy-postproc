@@ -1,8 +1,8 @@
 # Workflow
 
-1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
+1. Follow the workflow described in **EDDY-postproc-example.Rmd** to generate **datasets** folder
 
-   *EDDY-postproc-example.Rmd* is included in *workflow* folder.
+   **EDDY-postproc-example.Rmd** is included in **workflow** folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
    
@@ -11,7 +11,7 @@
    and **summary_table.md** (*output_dir*).
 
 
-2. Edit *summary_table.md* in *output_dir* folder (as specified in *EDDY-postproc-example.Rmd*) 
+2. Edit **summary_table.md** in *output_dir* folder (as specified in **EDDY-postproc-example.Rmd**) 
    to edit title, if needed.  This should be the first line of the file.
 
 ```
@@ -19,7 +19,7 @@
 ```
 
 3. In the command line, move to *output_dir* folder and run the following command to convert 
-   *summary_table.md* to *summary_table.html* using a markdown converter.  If you don't have 
+   **summary_table.md** to **summary_table.html** using a markdown converter.  If you don't have 
    **pandoc** installed, please visit [Pandoc](https://pandoc.org) 
   for installation instruction.
 
