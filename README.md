@@ -2,7 +2,7 @@
 
 1. Follow the workflow described in **-postproc.Rmd* to generate *datasets* folder
 
-   **-postproc.Rmd* is included in *workflow* folder.
+   *EDDY-postproc-example.Rmd* is included in *workflow* folder.
 
    One will need to install https://github.com/skimlab/eddyR to run this workflow.
    
@@ -11,7 +11,8 @@
    and **summary_table.md** (*output_dir*).
 
 
-2. Edit *summary_table.md* in *output_dir* folder (as specified in **-postproc.Rmd*) to edit title, if needed.  This should be the first line of the file.
+2. Edit *summary_table.md* in *output_dir* folder (as specified in *EDDY-postproc-example.Rmd*) 
+   to edit title, if needed.  This should be the first line of the file.
 
 ```
 # Disease vs Normal (title)
