@@ -30,7 +30,7 @@ pandoc summary_table.md -t html -o summary_table.html
 
 
 
-4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder and copy those files and te folders in template folder into *output_dir* folder.  Or these are the same files in *template* folder.  The folder will include the following folders and files.
+4. [Download this repository](https://github.com/skimlab/eddy-postproc/archive/refs/heads/main.zip) into your folder and copy the files and folders in template folder into *output_dir* folder.  These are the same files in *template* folder.  The folder will include the following folders and files.
 
    1. *css* (folder)
    2. *js* (folder)
@@ -41,7 +41,7 @@ pandoc summary_table.md -t html -o summary_table.html
 
 5. Rename *index-template.html* to *index.html*.  
 
-6. Copy **summary_table.html** in *summary* folder into the folder where **index.html** is and 
+6. Copy/move **summary_table.html** in *summary* folder into the folder where **index.html** is, and 
    make necessary changes in **summary_table.html**.  Specifically,  
    one might need to change table column widths (proportions).  
    Make sure there is no column with **0**(%). 
