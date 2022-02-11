@@ -6,13 +6,13 @@
 
 2. Run **pandoc_run.sh**
 ```
-> pandoc_run.sh < `list_folder.txt`
+> pandoc_run.sh < [list_folders.txt]
 ```
-This will convert summary_table.md in each folder to summary_table.html
+This will convert summary_table.md in each folder to summary_table.html.  [list_folders.txt] should include all EDDY run folders.
 
 3. Run **copy_template.sh**
 ```
-> copy_template.sh < `list_folder.txt`
+> copy_template.sh < [list_folders.txt]
 ```
 This will copy all the files in *template* folder to each folder.  
 It will also apply decent column width info to all summary_table.html using **replace_lines.sh**.
