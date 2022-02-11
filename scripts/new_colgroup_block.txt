@@ -1,0 +1,10 @@
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 1%" />
+<col style="width: 8%" />
+<col style="width: 4%" />
+<col style="width: 4%" />
+<col style="width: 8%" align="center" />
+<col style="width: 8%" align="center" />
+<col style="width: 1%" align="center" />
+</colgroup>
