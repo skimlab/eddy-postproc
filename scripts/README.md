@@ -1,24 +1,19 @@
 # Batch processing
 
--- These are scripts to process multiple EDDY results at once
+- These are scripts to process multiple EDDY results at once
 
-1. Follow the workflow described in **EDDY-postproc-example.Rmd** to generate **datasets** folder
+1. First, make necessary changes in **eddy-postproc.R** to batch process multiple EDDY results.  This is simply a batch processing version of **EDDY-postproc-example.Rmd** included in **workflow** folder.
 
-   **EDDY-postproc-example.Rmd** is included in **workflow** folder.
-
-   One will need to install https://github.com/skimlab/eddyR to run this workflow.
-   
-   
-   This will generate all DDN graphs in PDF format (*output_dir*) and JSON format (*ddn_json_dir*), 
-   and **summary_table.md** (*output_dir*).
-
-
-2. Edit **summary_table.md** in *output_dir* folder (as specified in **EDDY-postproc-example.Rmd**) 
-   to edit title, if needed.  This should be the first line of the file.
-
+2. Run **pandoc_run.sh**
 ```
-# Disease vs Normal (title)
+> pandoc_run.sh < `list_folder.txt`
 ```
+This will convert summary_table.md in each folder to summary_table.html
 
-
+3. Run **copy_template.sh**
+```
+> copy_template.sh < `list_folder.txt`
+```
+This will copy all the files in *template* folder to each folder.  
+It will also apply decent column width info to all summary_table.html using **replace_lines.sh**.
 
