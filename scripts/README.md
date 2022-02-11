@@ -1,1 +1,1 @@
-** These are scripts to process multiple EDDY results at once
+## These are scripts to process multiple EDDY results at once
