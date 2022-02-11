@@ -336,6 +336,21 @@
     }
 
 
+    let $SVGbutton = $('#save_svg');
+    let exportSVG = () => {
+      var mySVG = cy.svg({scale: 1, full: true});
+
+      var name = document.getElementById("title").innerText 
+      var type = "image/svg+xml;charset=utf-8";
+      var a = document.createElement('a');
+      var file = new Blob([mySVG], { type: type });
+      a.href = URL.createObjectURL(file);
+      a.download = name;
+      a.click();
+      a.remove()
+    }
+
+
     cy = window.cy = cytoscape({
 //      container: $('#cy')
       container: document.getElementById('cy'),
@@ -471,6 +486,8 @@
     $hideGroupsCheckbox.addEventListener('click', hideGroups);
 
     $PNGbutton.addEventListener('click', exportPNG);
+    $SVGbutton.addEventListener('click', exportSVG);
+    
   });
 })();
 
