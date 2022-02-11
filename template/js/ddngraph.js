@@ -326,13 +326,8 @@
       var myPNG = cy.png({'output': 'blob', bg:"#ffffff" });
 
       var name = document.getElementById("title").innerText 
-      var type = "image/png";
-      var a = document.createElement('a');
-      var file = new Blob([myPNG], { type: type });
-      a.href = URL.createObjectURL(file);
-      a.download = name;
-      a.click();
-      a.remove()
+      var blob = new Blob([myPNG], { type: "image/png" });
+      saveAs(blob, name);  // this is from FileSaver.js      
     }
 
 
@@ -341,13 +336,8 @@
       var mySVG = cy.svg({scale: 1, full: true});
 
       var name = document.getElementById("title").innerText 
-      var type = "image/svg+xml;charset=utf-8";
-      var a = document.createElement('a');
-      var file = new Blob([mySVG], { type: type });
-      a.href = URL.createObjectURL(file);
-      a.download = name;
-      a.click();
-      a.remove()
+      var blob = new Blob([mySVG], { type: "image/svg+xml;charset=utf-8" });
+      saveAs(blob, name);  // this is from FileSaver.js
     }
 
 
