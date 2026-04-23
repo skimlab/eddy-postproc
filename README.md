@@ -1,4 +1,9 @@
-# Workflow
+# Workflow for multiple EDDY results
+Most likely you will use this version.
+Move to scripts folder and follow the instructions in README.md
+
+
+# Workflow for a single EDDY result (rarely used)
 
 1. Follow the workflow described in **EDDY-postproc-example.Rmd** to generate **datasets** folder
 
