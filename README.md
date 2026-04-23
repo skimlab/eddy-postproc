@@ -2,7 +2,7 @@
 
 ## 1. Multiple EDDY results
 Most likely you will use this version.
-Move to **scripts** folder and follow the instructions in README.md
+Move to **[scripts](https://github.com/skimlab/eddy-postproc/tree/main/scripts)** folder and follow the instructions in README.md
 
 
 ## 2. Single EDDY result (rarely used)
