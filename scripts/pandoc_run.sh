@@ -5,5 +5,5 @@ HTML_FILE="summary_table.html"
 
 while read -r file
 do
-  [ -d "$file" ] && pandoc $file/$MD_FILE -t html -o $file/$HTML_FILE
+  [ -d "$file" ] && pandoc --wrap=none $file/$MD_FILE -t html -o $file/$HTML_FILE
 done 
